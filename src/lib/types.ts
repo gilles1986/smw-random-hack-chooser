@@ -6,23 +6,26 @@ export interface Hack {
 	types: string[];
 	difficulty: string;
 	time: number;
+        exits?: number;
 }
 
 export interface ChosenHack {
-	id: number;
-	name: string;
-	url: string;
-	types: string[];
-	difficulty: string;
-	chosen_date: string;
+        id: number;
+        name: string;
+        url: string;
+        types: string[];
+        difficulty: string;
+        chosen_date: string;
+        exits?: number;
 }
 
 export interface HacksCache {
-	fetched_at: string;
-	data: Hack[];
+        fetched_at: string;
+        data: Hack[];
 }
 
 export interface ActiveFilters {
-	types: string[];
-	difficulties: string[];
-}
+        types: string[];
+        difficulties: string[];
+        minExits: number | null;
+        maxExits: number | null;

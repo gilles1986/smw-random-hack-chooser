@@ -23,10 +23,10 @@
 	}
 
 	function clearFilters() {
-		filters.set({ types: [], difficulties: [] });
+		filters.set({ types: [], difficulties: [], minExits: null, maxExits: null });
 	}
 
-	$: hasFilters = $filters.types.length > 0 || $filters.difficulties.length > 0;
+	$: hasFilters = $filters.types.length > 0 || $filters.difficulties.length > 0 || $filters.minExits !== null || $filters.maxExits !== null;
 </script>
 
 <div class="filter-bar">
@@ -57,6 +57,15 @@
 					{opt.label}
 				</button>
 			{/each}
+		</div>
+	</div>
+
+	<div class="filter-row">
+		<span class="row-label">Exits</span>
+		<div class="exits-inputs">
+			<input type="number" min="0" placeholder="Min" bind:value={$filters.minExits} />
+			<span>-</span>
+			<input type="number" min="0" placeholder="Max" bind:value={$filters.maxExits} />
 		</div>
 	</div>
 
@@ -164,6 +173,32 @@
 		background: rgba(255, 100, 100, 0.1);
 		border-color: rgba(255, 100, 100, 0.3);
 		color: #ff6b6b;
+	}
+
+	.exits-inputs {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+	}
+
+	.exits-inputs input {
+		width: 80px;
+		padding: 0.35rem 0.6rem;
+		border-radius: 6px;
+		border: 1px solid var(--border);
+		background: var(--surface2);
+		color: var(--text);
+		font-family: inherit;
+		font-size: 0.85rem;
+	}
+
+	.exits-inputs input:focus {
+		outline: none;
+		border-color: var(--accent);
+	}
+
+	.exits-inputs span {
+		color: var(--text-muted);
 	}
 
 	@media (max-width: 720px) {

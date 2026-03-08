@@ -16,6 +16,7 @@
 			url: hack.url,
 			types: hack.types ?? [],
 			difficulty: hack.difficulty,
+			exits: hack.exits,
 			chosen_date: new Date().toISOString().slice(0, 10)
 		};
 		historyStore.add(entry);
@@ -39,6 +40,9 @@
 			<div class="meta">
 				<span class="badge type">{typeLabel}</span>
 				<span class="badge difficulty">{diffLabel}</span>
+				{#if hack.exits !== undefined && hack.exits >= 0}
+					<span class="badge exits">{hack.exits} Exit{hack.exits !== 1 ? 's' : ''}</span>
+				{/if}
 			</div>
 			<a class="download-link" href={hack.url} target="_blank" rel="noopener noreferrer">
 				↗ Open on SMWCentral
@@ -106,6 +110,12 @@
 	.badge.difficulty {
 		background: var(--badge-diff-bg);
 		color: var(--badge-diff-fg);
+	}
+
+	.badge.exits {
+		background: var(--surface2);
+		color: var(--text);
+		border: 1px solid var(--border);
 	}
 
 	.download-link {

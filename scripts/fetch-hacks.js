@@ -102,6 +102,16 @@ async function fetchAllHacks() {
 			const fields = hack.raw_fields ?? hack.fields ?? {};
 			const diffId = normalizeDifficulty(fields.difficulty ?? hack.difficulty ?? '');
 			const types = normalizeTypes(fields.type ?? hack.type);
+
+			let parsedExits = 0;
+			const lengthRaw = fields.length ?? hack.length;
+			if (typeof lengthRaw === 'number') {
+				parsedExits = lengthRaw;
+			} else if (typeof lengthRaw === 'string') {
+				const matched = lengthRaw.match(/(\d+)/);
+				if (matched) parsedExits = parseInt(matched[1], 10);
+			}
+
 			newHacks.push({
 				id: hack.id,
 				name: hack.name,
@@ -109,7 +119,8 @@ async function fetchAllHacks() {
 				types,
 				difficulty: diffId,
 				difficultyLabel: DIFFICULTY_ID_TO_LABEL[diffId] ?? 'No Difficulty',
-				time: hack.time ?? 0
+				time: hack.time ?? 0,
+				exits: parsedExits
 			});
 		}
 

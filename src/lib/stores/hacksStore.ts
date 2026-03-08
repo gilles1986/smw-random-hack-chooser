@@ -7,7 +7,7 @@ function createHacksStore() {
 	const allHacks = writable<Hack[]>([]);
 	const loading = writable(false);
 	const error = writable<string | null>(null);
-	const filters = writable<ActiveFilters>({ types: [], difficulties: [] });
+	const filters = writable<ActiveFilters>({ types: [], difficulties: [], minExits: null, maxExits: null });
 
 	async function loadHacks() {
 		loading.set(true);
@@ -40,7 +40,11 @@ function createHacksStore() {
 				$filters.types.some((t) => hackTypes.includes(t));
 			const diffMatch =
 				$filters.difficulties.length === 0 || $filters.difficulties.includes(hack.difficulty);
-			return typeMatch && diffMatch;
+			const exits = hack.exits ?? 0;
+			const minExitsMatch = $filters.minExits === null || exits >= $filters.minExits;
+			const maxExitsMatch = $filters.maxExits === null || exits <= $filters.maxExits;
+			
+			return typeMatch && diffMatch && minExitsMatch && maxExitsMatch;
 		});
 	});
 

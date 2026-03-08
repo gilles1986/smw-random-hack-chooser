@@ -33,8 +33,9 @@
 						{/each}
 							<span class="badge difficulty"
 								>{DIFFICULTY_ID_TO_LABEL[entry.difficulty] ?? 'Unknown'}</span
-							>
-							<span class="entry-date">{entry.chosen_date}</span>
+							>							{#if entry.exits !== undefined && entry.exits >= 0}
+								<span class="badge exits">{entry.exits} Exit{entry.exits !== 1 ? 's' : ''}</span>
+							{/if}							<span class="entry-date">{entry.chosen_date}</span>
 						</div>
 					</div>
 					<button
@@ -163,6 +164,12 @@
 	.badge.difficulty {
 		background: var(--badge-diff-bg);
 		color: var(--badge-diff-fg);
+	}
+
+	.badge.exits {
+		background: var(--surface2);
+		color: var(--text);
+		border: 1px solid var(--border);
 	}
 
 	.entry-date {
