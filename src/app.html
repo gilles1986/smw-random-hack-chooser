@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>SMW Random Hack Chooser</title>
+		%sveltekit.head%
+		<style>
+			:root {
+				--bg: #0f1117;
+				--surface: #1a1d2e;
+				--surface2: #23263a;
+				--header-bg: #13162080;
+				--border: #2e3150;
+				--text: #e8eaf6;
+				--text-muted: #7b82b0;
+				--accent: #7c6ff7;
+				--badge-type-bg: #2a2060;
+				--badge-type-fg: #b0a8ff;
+				--badge-diff-bg: #1a3040;
+				--badge-diff-fg: #72b8d8;
+			}
+			*, *::before, *::after { box-sizing: border-box; }
+			body {
+				margin: 0;
+				font-family: system-ui, -apple-system, sans-serif;
+				background: var(--bg);
+				color: var(--text);
+			}
+		</style>
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">%sveltekit.body%</div>
+	</body>
+</html>
