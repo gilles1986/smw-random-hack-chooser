@@ -1,5 +1,29 @@
 [
   {
+    "id": 41559,
+    "name": "Absolute Authenticity",
+    "url": "https://dl.smwcentral.net/41559/Absolute%20Authenticity.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_7",
+    "difficultyLabel": "Grandmaster",
+    "time": 1772997548,
+    "exits": 0
+  },
+  {
+    "id": 41538,
+    "name": "Super Flash World 2",
+    "url": "https://dl.smwcentral.net/41538/FlashWorld2.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1772980683,
+    "exits": 23
+  },
+  {
     "id": 41828,
     "name": "Super Ordinary World",
     "url": "https://dl.smwcentral.net/41828/Super%20Ordinary%20World.zip",
