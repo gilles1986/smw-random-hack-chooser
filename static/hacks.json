@@ -1,5 +1,17 @@
 [
   {
+    "id": 41814,
+    "name": "The Chamber of 32 Doors",
+    "url": "https://dl.smwcentral.net/41814/32.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1773092459,
+    "exits": 0
+  },
+  {
     "id": 41559,
     "name": "Absolute Authenticity",
     "url": "https://dl.smwcentral.net/41559/Absolute%20Authenticity.zip",
