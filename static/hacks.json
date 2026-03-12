@@ -1,5 +1,53 @@
 [
   {
+    "id": 41839,
+    "name": "PATHMAKER",
+    "url": "https://dl.smwcentral.net/41839/PATHMAKERv1.1.zip",
+    "types": [
+      "puzzle"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1773289636,
+    "exits": 5
+  },
+  {
+    "id": 41888,
+    "name": "Run Away from Mario's Past",
+    "url": "https://dl.smwcentral.net/41888/Run%20Away%20from%20Mario%27s%20Past%20v1.1.zip",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1773282662,
+    "exits": 10
+  },
+  {
+    "id": 41808,
+    "name": "Adventure in Gemstone Islands",
+    "url": "https://dl.smwcentral.net/41808/Adventure%20in%20Gemstone%20Islands%20v2.03.zip",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1773280792,
+    "exits": 73
+  },
+  {
+    "id": 41889,
+    "name": "On The Edge",
+    "url": "https://dl.smwcentral.net/41889/OnTheEdge.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1773275700,
+    "exits": 8
+  },
+  {
     "id": 41814,
     "name": "The Chamber of 32 Doors",
     "url": "https://dl.smwcentral.net/41814/32.zip",
