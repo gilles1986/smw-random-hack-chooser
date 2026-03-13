@@ -1,5 +1,29 @@
 [
   {
+    "id": 41821,
+    "name": "Sakaya Sanctuary",
+    "url": "https://dl.smwcentral.net/41821/Sakaya%20Sanctuary.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1773345674,
+    "exits": 20
+  },
+  {
+    "id": 41895,
+    "name": "echoestopia",
+    "url": "https://dl.smwcentral.net/41895/echoesto%20topia.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1773338517,
+    "exits": 0
+  },
+  {
     "id": 41839,
     "name": "PATHMAKER",
     "url": "https://dl.smwcentral.net/41839/PATHMAKERv1.1.zip",
