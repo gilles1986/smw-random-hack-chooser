@@ -1,5 +1,53 @@
 [
   {
+    "id": 41691,
+    "name": "Super BanzaiChuck World",
+    "url": "https://dl.smwcentral.net/41691/SBCW_V1_1.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1773454690,
+    "exits": 20
+  },
+  {
+    "id": 41906,
+    "name": "Walkabout",
+    "url": "https://dl.smwcentral.net/41906/Walkabout.zip",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1773445517,
+    "exits": 33
+  },
+  {
+    "id": 41898,
+    "name": "Tangle's Trip",
+    "url": "https://dl.smwcentral.net/41898/Tangle%27s%20Trip.zip",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1773438378,
+    "exits": 11
+  },
+  {
+    "id": 41561,
+    "name": "Kaizo no Notam",
+    "url": "https://dl.smwcentral.net/41561/Notam.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1773435213,
+    "exits": 10
+  },
+  {
     "id": 41821,
     "name": "Sakaya Sanctuary",
     "url": "https://dl.smwcentral.net/41821/Sakaya%20Sanctuary.zip",
