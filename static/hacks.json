@@ -1,5 +1,17 @@
 [
   {
+    "id": 41864,
+    "name": "Super Refund World",
+    "url": "https://dl.smwcentral.net/41864/Super%20Refund%20World%201.02.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_7",
+    "difficultyLabel": "Grandmaster",
+    "time": 1773533462,
+    "exits": 22
+  },
+  {
     "id": 41691,
     "name": "Super BanzaiChuck World",
     "url": "https://dl.smwcentral.net/41691/SBCW_V1_1.zip",
