@@ -1,5 +1,29 @@
 [
   {
+    "id": 41877,
+    "name": "Shella Sick (A Hella Sick Shell Hack)",
+    "url": "https://dl.smwcentral.net/41877/Shella%20Sick%20%28A%20Hella%20Sick%20Shell%20Hack%29.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1773614470,
+    "exits": 14
+  },
+  {
+    "id": 41863,
+    "name": "Back to the Green Hill",
+    "url": "https://dl.smwcentral.net/41863/Back%20to%20the%20Green%20Hill%20Updated.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1773607984,
+    "exits": 25
+  },
+  {
     "id": 41864,
     "name": "Super Refund World",
     "url": "https://dl.smwcentral.net/41864/Super%20Refund%20World%201.02.zip",
