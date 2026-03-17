@@ -1,5 +1,29 @@
 [
   {
+    "id": 41920,
+    "name": "Hidden Dream in the Deep Time",
+    "url": "https://dl.smwcentral.net/41920/Hidden%20Dream%20in%20the%20Deep%20Time.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1773699827,
+    "exits": 12
+  },
+  {
+    "id": 41455,
+    "name": "Assortment Of Wyverns",
+    "url": "https://dl.smwcentral.net/41455/AssortmentOfWyverns.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_7",
+    "difficultyLabel": "Grandmaster",
+    "time": 1773694290,
+    "exits": 3
+  },
+  {
     "id": 41877,
     "name": "Shella Sick (A Hella Sick Shell Hack)",
     "url": "https://dl.smwcentral.net/41877/Shella%20Sick%20%28A%20Hella%20Sick%20Shell%20Hack%29.zip",
