@@ -1,5 +1,30 @@
 [
   {
+    "id": 41925,
+    "name": "super super com",
+    "url": "https://dl.smwcentral.net/41925/fire.zip",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1773887984,
+    "exits": 18
+  },
+  {
+    "id": 40631,
+    "name": "Really Neat Gimmicks",
+    "url": "https://dl.smwcentral.net/40631/gimmicks.zip",
+    "types": [
+      "standard",
+      "kaizo"
+    ],
+    "difficulty": "diff_7",
+    "difficultyLabel": "Grandmaster",
+    "time": 1773860311,
+    "exits": 14
+  },
+  {
     "id": 41920,
     "name": "Hidden Dream in the Deep Time",
     "url": "https://dl.smwcentral.net/41920/Hidden%20Dream%20in%20the%20Deep%20Time.zip",
