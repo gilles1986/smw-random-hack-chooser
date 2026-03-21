@@ -1,5 +1,41 @@
 [
   {
+    "id": 41949,
+    "name": "The Crimson Castle",
+    "url": "https://dl.smwcentral.net/41949/The%20Crimson%20Castle.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1774054051,
+    "exits": 14
+  },
+  {
+    "id": 41933,
+    "name": "Sakaya Sanctuary",
+    "url": "https://dl.smwcentral.net/41933/Sakaya%20Sanctuary%201.1.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1774049040,
+    "exits": 20
+  },
+  {
+    "id": 41900,
+    "name": "Run Away from Mario's Past",
+    "url": "https://dl.smwcentral.net/41900/Run%20Away%20from%20Mario%27s%20Past%20v1.4.zip",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1774017524,
+    "exits": 10
+  },
+  {
     "id": 41925,
     "name": "super super com",
     "url": "https://dl.smwcentral.net/41925/fire.zip",
