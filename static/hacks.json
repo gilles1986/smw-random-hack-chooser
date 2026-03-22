@@ -1,5 +1,17 @@
 [
   {
+    "id": 41928,
+    "name": "Super Mario World Ridley X Hack",
+    "url": "https://dl.smwcentral.net/41928/smw%20ridleyx%20hack%20v1.0.zip",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1774143722,
+    "exits": 52
+  },
+  {
     "id": 41949,
     "name": "The Crimson Castle",
     "url": "https://dl.smwcentral.net/41949/The%20Crimson%20Castle.zip",
