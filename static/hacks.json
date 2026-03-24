@@ -1,5 +1,41 @@
 [
   {
+    "id": 41976,
+    "name": "Iridium",
+    "url": "https://dl.smwcentral.net/41976/Iridium.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1774303911,
+    "exits": 17
+  },
+  {
+    "id": 41743,
+    "name": "Shell Or Die",
+    "url": "https://dl.smwcentral.net/41743/ShellOrDie.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1774303810,
+    "exits": 15
+  },
+  {
+    "id": 41980,
+    "name": "Freak City",
+    "url": "https://dl.smwcentral.net/41980/Freak%20City.zip",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1774250003,
+    "exits": 92
+  },
+  {
     "id": 41928,
     "name": "Super Mario World Ridley X Hack",
     "url": "https://dl.smwcentral.net/41928/smw%20ridleyx%20hack%20v1.0.zip",
