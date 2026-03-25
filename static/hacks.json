@@ -1,5 +1,30 @@
 [
   {
+    "id": 42023,
+    "name": "Dream Eater",
+    "url": "https://dl.smwcentral.net/42023/Dream%20Eater.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1774406627,
+    "exits": 11
+  },
+  {
+    "id": 41902,
+    "name": "The Found Levels featuring Aeron",
+    "url": "https://dl.smwcentral.net/41902/The%20Found%20Levels%20featuring%20Aeron%20%28Ver.%201.3.5%29.zip",
+    "types": [
+      "standard",
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1774378633,
+    "exits": 9
+  },
+  {
     "id": 41976,
     "name": "Iridium",
     "url": "https://dl.smwcentral.net/41976/Iridium.zip",
