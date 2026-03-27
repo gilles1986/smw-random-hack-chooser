@@ -1,5 +1,17 @@
 [
   {
+    "id": 41843,
+    "name": "BALL BUSTER",
+    "url": "https://dl.smwcentral.net/41843/BallBusterV1.4.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1774564430,
+    "exits": 9
+  },
+  {
     "id": 42023,
     "name": "Dream Eater",
     "url": "https://dl.smwcentral.net/42023/Dream%20Eater.zip",
