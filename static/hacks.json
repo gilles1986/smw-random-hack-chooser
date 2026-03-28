@@ -1,5 +1,17 @@
 [
   {
+    "id": 42048,
+    "name": "a pretty view",
+    "url": "https://dl.smwcentral.net/42048/a%20pretty%20view.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1774625619,
+    "exits": 13
+  },
+  {
     "id": 41843,
     "name": "BALL BUSTER",
     "url": "https://dl.smwcentral.net/41843/BallBusterV1.4.zip",
