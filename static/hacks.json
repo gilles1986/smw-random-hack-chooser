@@ -1,5 +1,17 @@
 [
   {
+    "id": 41890,
+    "name": "Jam",
+    "url": "https://dl.smwcentral.net/41890/JamV110.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1774907323,
+    "exits": 14
+  },
+  {
     "id": 42048,
     "name": "a pretty view",
     "url": "https://dl.smwcentral.net/42048/a%20pretty%20view.zip",
