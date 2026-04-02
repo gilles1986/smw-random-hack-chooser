@@ -1,5 +1,18 @@
 [
   {
+    "id": 41893,
+    "name": "The Dimensional Castle Starring Aeron",
+    "url": "https://dl.smwcentral.net/41893/The%20Dimensional%20Castle%20Starring%20Aeron%20%28version%201.3.8.2%29.zip",
+    "types": [
+      "standard",
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1775092220,
+    "exits": 4
+  },
+  {
     "id": 41987,
     "name": "Tangle's Trip",
     "url": "https://dl.smwcentral.net/41987/Tangle%27s%20Trip%20Update.zip",
