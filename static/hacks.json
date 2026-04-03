@@ -1,5 +1,29 @@
 [
   {
+    "id": 42072,
+    "name": "Ides of March 2: Dogs of War",
+    "url": "https://dl.smwcentral.net/42072/dogs_of_war.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1775180422,
+    "exits": 21
+  },
+  {
+    "id": 41875,
+    "name": "Arcadia",
+    "url": "https://dl.smwcentral.net/41875/Arcadia.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1775171481,
+    "exits": 25
+  },
+  {
     "id": 41893,
     "name": "The Dimensional Castle Starring Aeron",
     "url": "https://dl.smwcentral.net/41893/The%20Dimensional%20Castle%20Starring%20Aeron%20%28version%201.3.8.2%29.zip",
