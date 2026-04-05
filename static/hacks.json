@@ -1,5 +1,17 @@
 [
   {
+    "id": 42107,
+    "name": "The Four Boos of the Apocalypse",
+    "url": "https://dl.smwcentral.net/42107/4BoosOfTheApocalypse.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_7",
+    "difficultyLabel": "Grandmaster",
+    "time": 1775352008,
+    "exits": 16
+  },
+  {
     "id": 42072,
     "name": "Ides of March 2: Dogs of War",
     "url": "https://dl.smwcentral.net/42072/dogs_of_war.zip",
