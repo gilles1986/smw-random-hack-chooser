@@ -1,5 +1,43 @@
 [
   {
+    "id": 42100,
+    "name": "Arcyria",
+    "url": "https://dl.smwcentral.net/42100/Arcyria%201.1.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1775439000,
+    "exits": 8
+  },
+  {
+    "id": 42110,
+    "name": "On The Edge",
+    "url": "https://dl.smwcentral.net/42110/OnTheEdge.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1775396546,
+    "exits": 8
+  },
+  {
+    "id": 42097,
+    "name": "Super Jars World",
+    "url": "https://dl.smwcentral.net/42097/Super%20Jars%20World.zip",
+    "types": [
+      "standard",
+      "kaizo",
+      "puzzle"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1775391844,
+    "exits": 20
+  },
+  {
     "id": 42107,
     "name": "The Four Boos of the Apocalypse",
     "url": "https://dl.smwcentral.net/42107/4BoosOfTheApocalypse.zip",
