@@ -1,5 +1,18 @@
 [
   {
+    "id": 42040,
+    "name": "The Found Levels featuring Aeron",
+    "url": "https://dl.smwcentral.net/42040/The%20Found%20Levels%20featuring%20Aeron%20%28version%201.4.1%29.zip",
+    "types": [
+      "standard",
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1775600187,
+    "exits": 9
+  },
+  {
     "id": 42100,
     "name": "Arcyria",
     "url": "https://dl.smwcentral.net/42100/Arcyria%201.1.zip",
