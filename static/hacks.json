@@ -1,5 +1,17 @@
 [
   {
+    "id": 42152,
+    "name": "Paths",
+    "url": "https://dl.smwcentral.net/42152/Paths%201.01.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1775700080,
+    "exits": 18
+  },
+  {
     "id": 42040,
     "name": "The Found Levels featuring Aeron",
     "url": "https://dl.smwcentral.net/42040/The%20Found%20Levels%20featuring%20Aeron%20%28version%201.4.1%29.zip",
