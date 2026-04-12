@@ -1,5 +1,17 @@
 [
   {
+    "id": 42143,
+    "name": "Karma",
+    "url": "https://dl.smwcentral.net/42143/Karma.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1775937221,
+    "exits": 13
+  },
+  {
     "id": 42152,
     "name": "Paths",
     "url": "https://dl.smwcentral.net/42152/Paths%201.01.zip",
