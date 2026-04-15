@@ -1,5 +1,17 @@
 [
   {
+    "id": 42098,
+    "name": "Playground Kaizo 2",
+    "url": "https://dl.smwcentral.net/42098/Playground%20Kaizo%202.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1776217164,
+    "exits": 8
+  },
+  {
     "id": 42143,
     "name": "Karma",
     "url": "https://dl.smwcentral.net/42143/Karma.zip",
