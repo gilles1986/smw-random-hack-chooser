@@ -1,5 +1,17 @@
 [
   {
+    "id": 42178,
+    "name": "Super Mario Mania",
+    "url": "https://dl.smwcentral.net/42178/SMM%20-%20Demo%20V1.0.zip",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1776319828,
+    "exits": 9
+  },
+  {
     "id": 42098,
     "name": "Playground Kaizo 2",
     "url": "https://dl.smwcentral.net/42098/Playground%20Kaizo%202.zip",
