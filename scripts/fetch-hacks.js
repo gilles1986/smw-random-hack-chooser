@@ -6,6 +6,10 @@
  *
  * The script fetches ALL hacks (all types, all difficulties) so the Svelte app
  * can filter entirely client-side without further API calls.
+ *
+ * It also fetches per-hack details (authors, description, screenshots) via
+ * getsectiondetails and embeds them into hacks.json, eliminating the need for
+ * browser-side API calls that would be blocked by CORS.
  */
 
 import { writeFileSync, mkdirSync, readFileSync, existsSync } from 'fs';
@@ -46,6 +50,57 @@ async function fetchPage(page) {
 	});
 	if (!res.ok) throw new Error(`HTTP ${res.status} on page ${page}`);
 	return res.json();
+}
+
+/**
+ * Fetches per-hack details (authors, description, screenshots) from getsectiondetails.
+ * Returns null on any error so missing details never block the overall fetch.
+ */
+async function fetchDetails(hackId) {
+	const params = new URLSearchParams({
+		a: 'getsectiondetails',
+		s: 'smwhacks',
+		id: String(hackId)
+	});
+	const url = `${API_URL}?${params}`;
+	try {
+		const res = await fetch(url, {
+			headers: { 'User-Agent': 'SMW-Random-Hack-Chooser/1.0' }
+		});
+		if (!res.ok) return null;
+		const json = await res.json();
+
+		const description =
+			json.description ?? json.fields?.description ?? json.raw_fields?.description ?? null;
+
+		const rawScreenshots =
+			json.screenshots ?? json.fields?.screenshots ?? json.raw_fields?.screenshots ?? [];
+		const screenshots = (Array.isArray(rawScreenshots) ? rawScreenshots : [])
+			.map((s) => {
+				if (typeof s === 'string') return s;
+				if (s && typeof s === 'object') {
+					return (s.url ?? s.src ?? s.link ?? '') || '';
+				}
+				return '';
+			})
+			.filter(Boolean);
+
+		const rawAuthors =
+			json.authors ?? json.fields?.authors ?? json.raw_fields?.authors ?? [];
+		const authors = (Array.isArray(rawAuthors) ? rawAuthors : [])
+			.map((a) => {
+				if (typeof a === 'string') return a;
+				if (a && typeof a === 'object') {
+					return (a.name ?? a.username ?? '') || '';
+				}
+				return '';
+			})
+			.filter(Boolean);
+
+		return { authors, description: description ?? null, screenshots };
+	} catch {
+		return null;
+	}
 }
 
 function normalizeTypes(raw) {
@@ -135,6 +190,42 @@ async function fetchAllHacks() {
 	} while (currentPage <= lastPage);
 
 	process.stdout.write('\n');
+
+	// Fetch details for new hacks
+	if (newHacks.length > 0) {
+		console.log(`Fetching details for ${newHacks.length} new hack(s)...`);
+		for (let i = 0; i < newHacks.length; i++) {
+			const hack = newHacks[i];
+			process.stdout.write(`\rFetching details ${i + 1}/${newHacks.length} (id=${hack.id})...`);
+			const details = await fetchDetails(hack.id);
+			if (details) {
+				hack.authors = details.authors;
+				hack.description = details.description;
+				hack.screenshots = details.screenshots;
+			}
+			if (i < newHacks.length - 1) await sleep(DELAY_MS);
+		}
+		process.stdout.write('\n');
+	}
+
+	// Back-fill details for existing hacks that are missing them
+	const missingDetails = existingHacks.filter((h) => h.authors === undefined);
+	if (missingDetails.length > 0) {
+		console.log(`Back-filling details for ${missingDetails.length} existing hack(s) without details...`);
+		for (let i = 0; i < missingDetails.length; i++) {
+			const hack = missingDetails[i];
+			process.stdout.write(`\rBack-filling ${i + 1}/${missingDetails.length} (id=${hack.id})...`);
+			const details = await fetchDetails(hack.id);
+			if (details) {
+				hack.authors = details.authors;
+				hack.description = details.description;
+				hack.screenshots = details.screenshots;
+			}
+			if (i < missingDetails.length - 1) await sleep(DELAY_MS);
+		}
+		process.stdout.write('\n');
+	}
+
 	return [...newHacks, ...existingHacks];
 }
 

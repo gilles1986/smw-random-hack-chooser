@@ -10,24 +10,13 @@
 	const dispatch = createEventDispatcher<{ accepted: Hack; skipped: Hack }>();
 
 	let details: HackDetails | null = null;
-	let detailsLoading = false;
 	let activeScreenshot = 0;
 
 	$: if (hack) {
-		const currentId = hack.id;
-		details = null;
-		detailsLoading = true;
+		details = fetchHackDetails(hack);
 		activeScreenshot = 0;
-		fetchHackDetails(currentId).then((d) => {
-			// Only update if the same hack is still displayed
-			if (hack?.id === currentId) {
-				details = d;
-				detailsLoading = false;
-			}
-		});
 	} else {
 		details = null;
-		detailsLoading = false;
 		activeScreenshot = 0;
 	}
 
@@ -99,11 +88,7 @@
 		</div>
 		</div>
 
-		{#if detailsLoading}
-			<div class="details-loading">
-				<span class="spinner-sm"></span> Loading details…
-			</div>
-		{:else if details}
+		{#if details}
 			{#if details.screenshots.length > 0}
 				<div class="screenshots">
 					<div class="screenshot-viewer">
@@ -260,25 +245,6 @@
 		text-align: center;
 		color: var(--text-muted);
 		margin: 0;
-	}
-
-	/* ── Details: loading indicator ── */
-	.details-loading {
-		display: flex;
-		align-items: center;
-		gap: 0.5rem;
-		font-size: 0.85rem;
-		color: var(--text-muted);
-	}
-
-	.spinner-sm {
-		display: inline-block;
-		width: 14px;
-		height: 14px;
-		border: 2px solid var(--border);
-		border-top-color: var(--accent);
-		border-radius: 50%;
-		animation: spin 0.7s linear infinite;
 	}
 
 	/* ── Screenshots ── */
