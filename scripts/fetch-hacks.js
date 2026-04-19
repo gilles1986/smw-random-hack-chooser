@@ -116,6 +116,7 @@ async function fetchAllHacks() {
 				id: hack.id,
 				name: hack.name,
 				url: hack.download_url ?? hack.url ?? '',
+				page_url: `https://www.smwcentral.net/?p=section&a=details&id=${hack.id}`,
 				types,
 				difficulty: diffId,
 				difficultyLabel: DIFFICULTY_ID_TO_LABEL[diffId] ?? 'No Difficulty',

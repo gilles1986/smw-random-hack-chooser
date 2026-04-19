@@ -2,6 +2,8 @@ export interface Hack {
 	id: number;
 	name: string;
 	url: string;
+	/** SMWCentral page URL for this hack */
+	page_url?: string;
 	/** All types this hack belongs to (lowercase), e.g. ["kaizo", "tool_assisted"] */
 	types: string[];
 	difficulty: string;
@@ -13,6 +15,7 @@ export interface ChosenHack {
         id: number;
         name: string;
         url: string;
+        page_url?: string;
         types: string[];
         difficulty: string;
         chosen_date: string;
@@ -29,3 +32,4 @@ export interface ActiveFilters {
         difficulties: string[];
         minExits: number | null;
         maxExits: number | null;
+}
