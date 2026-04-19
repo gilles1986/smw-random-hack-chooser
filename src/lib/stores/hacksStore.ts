@@ -1,13 +1,32 @@
 import { writable, derived } from 'svelte/store';
 import type { Hack, ActiveFilters } from '$lib/types';
-import { CACHE_KEY, CACHE_TTL_MS, HACKS_JSON_URL } from '$lib/constants';
+import { CACHE_KEY, CACHE_TTL_MS, HACKS_JSON_URL, FILTERS_KEY } from '$lib/constants';
 import { base } from '$app/paths';
+
+const DEFAULT_FILTERS: ActiveFilters = { types: [], difficulties: [], minExits: null, maxExits: null };
+
+function loadFilters(): ActiveFilters {
+	if (typeof localStorage === 'undefined') return DEFAULT_FILTERS;
+	try {
+		const raw = localStorage.getItem(FILTERS_KEY);
+		return raw ? JSON.parse(raw) : DEFAULT_FILTERS;
+	} catch {
+		return DEFAULT_FILTERS;
+	}
+}
 
 function createHacksStore() {
 	const allHacks = writable<Hack[]>([]);
 	const loading = writable(false);
 	const error = writable<string | null>(null);
-	const filters = writable<ActiveFilters>({ types: [], difficulties: [], minExits: null, maxExits: null });
+	const filters = writable<ActiveFilters>(loadFilters());
+
+	// Persist filters to localStorage on every change
+	filters.subscribe((value) => {
+		if (typeof localStorage !== 'undefined') {
+			localStorage.setItem(FILTERS_KEY, JSON.stringify(value));
+		}
+	});
 
 	async function loadHacks() {
 		loading.set(true);

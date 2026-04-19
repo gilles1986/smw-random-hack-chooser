@@ -1,6 +1,6 @@
 <script lang="ts">
 	import type { Hack, ChosenHack } from '$lib/types';
-	import { DIFFICULTY_ID_TO_LABEL } from '$lib/constants';
+	import { DIFFICULTY_ID_TO_LABEL, smwCentralPageUrl } from '$lib/constants';
 	import { historyStore } from '$lib/stores/historyStore';
 	import { createEventDispatcher } from 'svelte';
 
@@ -14,6 +14,7 @@
 			id: hack.id,
 			name: hack.name,
 			url: hack.url,
+			page_url: hack.page_url,
 			types: hack.types ?? [],
 			difficulty: hack.difficulty,
 			exits: hack.exits,
@@ -44,9 +45,21 @@
 					<span class="badge exits">{hack.exits} Exit{hack.exits !== 1 ? 's' : ''}</span>
 				{/if}
 			</div>
-			<a class="download-link" href={hack.url} target="_blank" rel="noopener noreferrer">
-				↗ Open on SMWCentral
+		<div class="hack-links">
+			<a
+				class="page-link"
+				href={hack.page_url ?? smwCentralPageUrl(hack.id)}
+				target="_blank"
+				rel="noopener noreferrer"
+			>
+				↗ SMWCentral Page
 			</a>
+			{#if hack.url}
+				<a class="download-link" href={hack.url} target="_blank" rel="noopener noreferrer">
+					⬇ Download ZIP
+				</a>
+			{/if}
+		</div>
 		</div>
 		<div class="actions">
 			<button class="btn btn-accept" on:click={accept}>✓ Accept — Add to History</button>
@@ -118,6 +131,14 @@
 		border: 1px solid var(--border);
 	}
 
+	.hack-links {
+		display: flex;
+		gap: 1rem;
+		flex-wrap: wrap;
+		align-items: center;
+	}
+
+	.page-link,
 	.download-link {
 		color: var(--accent);
 		font-weight: 600;
@@ -125,6 +146,7 @@
 		text-decoration: none;
 	}
 
+	.page-link:hover,
 	.download-link:hover {
 		text-decoration: underline;
 	}

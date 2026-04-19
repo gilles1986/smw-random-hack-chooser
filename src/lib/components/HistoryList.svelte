@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { historyStore } from '$lib/stores/historyStore';
-	import { DIFFICULTY_ID_TO_LABEL } from '$lib/constants';
+	import { DIFFICULTY_ID_TO_LABEL, smwCentralPageUrl } from '$lib/constants';
 </script>
 
 <div class="history-panel">
@@ -20,7 +20,7 @@
 					<div class="entry-info">
 						<a
 							class="entry-name"
-							href={entry.url}
+							href={entry.page_url ?? smwCentralPageUrl(entry.id)}
 							target="_blank"
 							rel="noopener noreferrer"
 							title="Open on SMWCentral"
