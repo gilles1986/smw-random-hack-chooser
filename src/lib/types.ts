@@ -8,7 +8,11 @@ export interface Hack {
 	types: string[];
 	difficulty: string;
 	time: number;
-        exits?: number;
+	exits?: number;
+	/** Pre-fetched at build time to avoid browser-side CORS issues */
+	authors?: string[];
+	description?: string | null;
+	screenshots?: string[];
 }
 
 export interface ChosenHack {
