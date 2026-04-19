@@ -1,5 +1,29 @@
 [
   {
+    "id": 42212,
+    "name": "Hidden Dream in the Deep Time",
+    "url": "https://dl.smwcentral.net/42212/Hidden%20Dream%20in%20the%20Deep%20Time%20%28v1.1%29.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1776563798,
+    "exits": 12
+  },
+  {
+    "id": 42201,
+    "name": "Paths",
+    "url": "https://dl.smwcentral.net/42201/Paths%201.1.zip",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1776557958,
+    "exits": 18
+  },
+  {
     "id": 42178,
     "name": "Super Mario Mania",
     "url": "https://dl.smwcentral.net/42178/SMM%20-%20Demo%20V1.0.zip",
