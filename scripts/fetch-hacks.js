@@ -148,6 +148,8 @@ async function fetchAllHacks() {
 
 		for (const hack of data.data ?? []) {
 			if (knownIds.has(hack.id)) {
+				// We reached a hack we already have.
+				// Since results are newest-first, we can assume we have all older ones.
 				stopFetching = true;
 				break;
 			}
