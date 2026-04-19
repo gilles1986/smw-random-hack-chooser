@@ -33,3 +33,9 @@ export interface ActiveFilters {
         minExits: number | null;
         maxExits: number | null;
 }
+
+export interface HackDetails {
+        description: string | null;
+        screenshots: string[];
+        authors: string[];
+}

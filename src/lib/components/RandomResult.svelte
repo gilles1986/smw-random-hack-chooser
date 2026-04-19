@@ -1,12 +1,35 @@
 <script lang="ts">
-	import type { Hack, ChosenHack } from '$lib/types';
+	import type { Hack, ChosenHack, HackDetails } from '$lib/types';
 	import { DIFFICULTY_ID_TO_LABEL, smwCentralPageUrl } from '$lib/constants';
 	import { historyStore } from '$lib/stores/historyStore';
+	import { fetchHackDetails, stripHtml } from '$lib/hackDetails';
 	import { createEventDispatcher } from 'svelte';
 
 	export let hack: Hack | null = null;
 
 	const dispatch = createEventDispatcher<{ accepted: Hack; skipped: Hack }>();
+
+	let details: HackDetails | null = null;
+	let detailsLoading = false;
+	let activeScreenshot = 0;
+
+	$: if (hack) {
+		const currentId = hack.id;
+		details = null;
+		detailsLoading = true;
+		activeScreenshot = 0;
+		fetchHackDetails(currentId).then((d) => {
+			// Only update if the same hack is still displayed
+			if (hack?.id === currentId) {
+				details = d;
+				detailsLoading = false;
+			}
+		});
+	} else {
+		details = null;
+		detailsLoading = false;
+		activeScreenshot = 0;
+	}
 
 	function accept() {
 		if (!hack) return;
@@ -29,15 +52,29 @@
 		dispatch('skipped', hack);
 	}
 
+	function prevScreenshot() {
+		if (!details || details.screenshots.length === 0) return;
+		activeScreenshot = (activeScreenshot - 1 + details.screenshots.length) % details.screenshots.length;
+	}
+
+	function nextScreenshot() {
+		if (!details || details.screenshots.length === 0) return;
+		activeScreenshot = (activeScreenshot + 1) % details.screenshots.length;
+	}
+
 	$: diffLabel =
 		(hack && (DIFFICULTY_ID_TO_LABEL[hack.difficulty] ?? 'Unknown')) || '';
 	$: typeLabel = hack ? (hack.types ?? []).join(', ').replace(/_/g, ' ') : '';
+	$: descriptionText = details?.description ? stripHtml(details.description) : null;
 </script>
 
 <div class="result-panel" class:empty={!hack}>
 	{#if hack}
 		<div class="hack-info">
 			<h2 class="hack-name">{hack.name}</h2>
+			{#if details?.authors?.length}
+				<p class="hack-authors">by {details.authors.join(', ')}</p>
+			{/if}
 			<div class="meta">
 				<span class="badge type">{typeLabel}</span>
 				<span class="badge difficulty">{diffLabel}</span>
@@ -61,6 +98,35 @@
 			{/if}
 		</div>
 		</div>
+
+		{#if detailsLoading}
+			<div class="details-loading">
+				<span class="spinner-sm"></span> Loading details…
+			</div>
+		{:else if details}
+			{#if details.screenshots.length > 0}
+				<div class="screenshots">
+					<div class="screenshot-viewer">
+						<img
+							src={details.screenshots[activeScreenshot]}
+							alt="Screenshot {activeScreenshot + 1} of {hack.name}"
+							class="screenshot-img"
+						/>
+						{#if details.screenshots.length > 1}
+							<div class="screenshot-nav">
+								<button class="nav-btn" on:click={prevScreenshot} aria-label="Previous screenshot">‹</button>
+								<span class="screenshot-counter">{activeScreenshot + 1} / {details.screenshots.length}</span>
+								<button class="nav-btn" on:click={nextScreenshot} aria-label="Next screenshot">›</button>
+							</div>
+						{/if}
+					</div>
+				</div>
+			{/if}
+			{#if descriptionText}
+				<div class="description">{descriptionText}</div>
+			{/if}
+		{/if}
+
 		<div class="actions">
 			<button class="btn btn-accept" on:click={accept}>✓ Accept — Add to History</button>
 			<button class="btn btn-skip" on:click={skip}>→ Skip</button>
@@ -194,5 +260,101 @@
 		text-align: center;
 		color: var(--text-muted);
 		margin: 0;
+	}
+
+	/* ── Details: loading indicator ── */
+	.details-loading {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		font-size: 0.85rem;
+		color: var(--text-muted);
+	}
+
+	.spinner-sm {
+		display: inline-block;
+		width: 14px;
+		height: 14px;
+		border: 2px solid var(--border);
+		border-top-color: var(--accent);
+		border-radius: 50%;
+		animation: spin 0.7s linear infinite;
+	}
+
+	/* ── Screenshots ── */
+	.screenshots {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+	}
+
+	.screenshot-viewer {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 0.4rem;
+		background: var(--surface2);
+		border-radius: 8px;
+		padding: 0.5rem;
+		border: 1px solid var(--border);
+	}
+
+	.screenshot-img {
+		max-width: 100%;
+		max-height: 280px;
+		object-fit: contain;
+		border-radius: 4px;
+		display: block;
+	}
+
+	.screenshot-nav {
+		display: flex;
+		align-items: center;
+		gap: 0.75rem;
+	}
+
+	.nav-btn {
+		background: var(--surface);
+		border: 1px solid var(--border);
+		border-radius: 4px;
+		padding: 0.1rem 0.55rem;
+		font-size: 1.1rem;
+		cursor: pointer;
+		color: var(--text);
+		line-height: 1.4;
+		transition: border-color 0.15s;
+	}
+
+	.nav-btn:hover {
+		border-color: var(--accent);
+		color: var(--accent);
+	}
+
+	.screenshot-counter {
+		font-size: 0.8rem;
+		color: var(--text-muted);
+		min-width: 3rem;
+		text-align: center;
+	}
+
+	/* ── Description ── */
+	.description {
+		font-size: 0.88rem;
+		line-height: 1.55;
+		color: var(--text);
+		background: var(--surface2);
+		border: 1px solid var(--border);
+		border-radius: 6px;
+		padding: 0.75rem 1rem;
+		max-height: 200px;
+		overflow-y: auto;
+		word-break: break-word;
+		white-space: pre-line;
+	}
+
+	.hack-authors {
+		margin: 0;
+		font-size: 0.85rem;
+		color: var(--text-muted);
 	}
 </style>
