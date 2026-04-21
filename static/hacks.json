@@ -1,5 +1,32 @@
 [
   {
+    "id": 42225,
+    "name": "Oblivion",
+    "url": "https://dl.smwcentral.net/42225/Oblivion.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42225",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1776715041,
+    "exits": 15
+  },
+  {
+    "id": 42166,
+    "name": "The Found Levels featuring Aeron",
+    "url": "https://dl.smwcentral.net/42166/The%20Found%20Levels%20featuring%20Aeron%20%28version%201.4.5%29.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42166",
+    "types": [
+      "standard",
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1776709092,
+    "exits": 9
+  },
+  {
     "id": 42212,
     "name": "Hidden Dream in the Deep Time",
     "url": "https://dl.smwcentral.net/42212/Hidden%20Dream%20in%20the%20Deep%20Time%20%28v1.1%29.zip",
