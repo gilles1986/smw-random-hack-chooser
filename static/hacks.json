@@ -1,5 +1,31 @@
 [
   {
+    "id": 42230,
+    "name": "Paths",
+    "url": "https://dl.smwcentral.net/42230/Paths%201.2.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42230",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1777059133,
+    "exits": 18
+  },
+  {
+    "id": 42235,
+    "name": "Super Mario Mania",
+    "url": "https://dl.smwcentral.net/42235/SMM%20-%20Demo%20V1.1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42235",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1777035845,
+    "exits": 9
+  },
+  {
     "id": 41930,
     "name": "A Strongly-Worded Letter to the Iceberg",
     "url": "https://dl.smwcentral.net/41930/A%20Strongly-Worded%20Letter%20to%20the%20Iceberg%201.01.zip",
