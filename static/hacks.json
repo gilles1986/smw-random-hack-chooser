@@ -1,5 +1,44 @@
 [
   {
+    "id": 42255,
+    "name": "Another Super Mario Adventure",
+    "url": "https://dl.smwcentral.net/42255/ASMA2%20Demo.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42255",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1777166984,
+    "exits": 27
+  },
+  {
+    "id": 42028,
+    "name": "Precision86 Part II : The Forgotten Kingdom (DEMO)",
+    "url": "https://dl.smwcentral.net/42028/Precision86%20Part%20II%20Demo%20V1_2.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42028",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1777149482,
+    "exits": 7
+  },
+  {
+    "id": 42206,
+    "name": "Nakama",
+    "url": "https://dl.smwcentral.net/42206/Nakama1.1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42206",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1777133538,
+    "exits": 34
+  },
+  {
     "id": 42230,
     "name": "Paths",
     "url": "https://dl.smwcentral.net/42230/Paths%201.2.zip",
