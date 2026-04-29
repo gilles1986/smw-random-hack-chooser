@@ -1,5 +1,18 @@
 [
   {
+    "id": 42238,
+    "name": "Oblivion",
+    "url": "https://dl.smwcentral.net/42238/Oblivion.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42238",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1777422918,
+    "exits": 15
+  },
+  {
     "id": 42255,
     "name": "Another Super Mario Adventure",
     "url": "https://dl.smwcentral.net/42255/ASMA2%20Demo.zip",
