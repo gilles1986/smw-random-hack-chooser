@@ -1,5 +1,18 @@
 [
   {
+    "id": 42274,
+    "name": "Sakaya Sanctuary",
+    "url": "https://dl.smwcentral.net/42274/Sakaya%20Sanctuary%201.2.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42274",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1777482208,
+    "exits": 20
+  },
+  {
     "id": 42238,
     "name": "Oblivion",
     "url": "https://dl.smwcentral.net/42238/Oblivion.zip",
