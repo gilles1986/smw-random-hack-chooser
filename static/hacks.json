@@ -1,5 +1,18 @@
 [
   {
+    "id": 42285,
+    "name": "Castlemania",
+    "url": "https://dl.smwcentral.net/42285/Castlemania%20v1.1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42285",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1777581323,
+    "exits": 6
+  },
+  {
     "id": 42274,
     "name": "Sakaya Sanctuary",
     "url": "https://dl.smwcentral.net/42274/Sakaya%20Sanctuary%201.2.zip",
