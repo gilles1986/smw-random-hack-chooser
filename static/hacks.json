@@ -1,5 +1,31 @@
 [
   {
+    "id": 42291,
+    "name": "Pineapple Porcupine 2",
+    "url": "https://dl.smwcentral.net/42291/Pineapple%20Porcupine%202.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42291",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1777659119,
+    "exits": 25
+  },
+  {
+    "id": 42289,
+    "name": "Hack 25",
+    "url": "https://dl.smwcentral.net/42289/Hack%2025.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42289",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1777620261,
+    "exits": 6
+  },
+  {
     "id": 42285,
     "name": "Castlemania",
     "url": "https://dl.smwcentral.net/42285/Castlemania%20v1.1.zip",
