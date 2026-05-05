@@ -1,5 +1,18 @@
 [
   {
+    "id": 42259,
+    "name": "Rosalina's Gold Saga",
+    "url": "https://dl.smwcentral.net/42259/Rosalina%27s%20Gold%20Saga.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42259",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1777939063,
+    "exits": 44
+  },
+  {
     "id": 42291,
     "name": "Pineapple Porcupine 2",
     "url": "https://dl.smwcentral.net/42291/Pineapple%20Porcupine%202.zip",
