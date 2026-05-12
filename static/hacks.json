@@ -1,5 +1,18 @@
 [
   {
+    "id": 42315,
+    "name": "Iridium",
+    "url": "https://dl.smwcentral.net/42315/Iridium.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42315",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1778545560,
+    "exits": 17
+  },
+  {
     "id": 42259,
     "name": "Rosalina's Gold Saga",
     "url": "https://dl.smwcentral.net/42259/Rosalina%27s%20Gold%20Saga.zip",
