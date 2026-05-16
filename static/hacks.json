@@ -1,5 +1,31 @@
 [
   {
+    "id": 42160,
+    "name": "Shell Or Die",
+    "url": "https://dl.smwcentral.net/42160/ShellOrDie.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42160",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1778885867,
+    "exits": 15
+  },
+  {
+    "id": 42336,
+    "name": "PLAYTIME",
+    "url": "https://dl.smwcentral.net/42336/playtime1.01.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42336",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1778848165,
+    "exits": 17
+  },
+  {
     "id": 42315,
     "name": "Iridium",
     "url": "https://dl.smwcentral.net/42315/Iridium.zip",
