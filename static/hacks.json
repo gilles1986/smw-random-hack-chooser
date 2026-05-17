@@ -1,5 +1,31 @@
 [
   {
+    "id": 42356,
+    "name": "Super Mario World - Bowser's Return",
+    "url": "https://dl.smwcentral.net/42356/Super%20Mario%20World%20-%20Bowser%27s%20Return.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42356",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1778959603,
+    "exits": 61
+  },
+  {
+    "id": 42355,
+    "name": "Super Mario World - Bowser's Return Redux",
+    "url": "https://dl.smwcentral.net/42355/Super%20Mario%20World%20-%20Bowser%27s%20Return%20Redux.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42355",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1778926224,
+    "exits": 61
+  },
+  {
     "id": 42160,
     "name": "Shell Or Die",
     "url": "https://dl.smwcentral.net/42160/ShellOrDie.zip",
