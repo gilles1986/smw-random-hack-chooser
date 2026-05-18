@@ -1,5 +1,18 @@
 [
   {
+    "id": 42361,
+    "name": "Learn 2 Kaizo",
+    "url": "https://dl.smwcentral.net/42361/Learn2Kaizo%20v1.1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42361",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1779030069,
+    "exits": 68
+  },
+  {
     "id": 42356,
     "name": "Super Mario World - Bowser's Return",
     "url": "https://dl.smwcentral.net/42356/Super%20Mario%20World%20-%20Bowser%27s%20Return.zip",
