@@ -1,5 +1,18 @@
 [
   {
+    "id": 42386,
+    "name": "Super Regiane-se",
+    "url": "https://dl.smwcentral.net/42386/Super%20Regiane-se.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42386",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1779413525,
+    "exits": 19
+  },
+  {
     "id": 42361,
     "name": "Learn 2 Kaizo",
     "url": "https://dl.smwcentral.net/42361/Learn2Kaizo%20v1.1.zip",
