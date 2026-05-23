@@ -1,5 +1,18 @@
 [
   {
+    "id": 42393,
+    "name": "Castlemania II",
+    "url": "https://dl.smwcentral.net/42393/Castlemania%20II%20v1.1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42393",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1779437489,
+    "exits": 6
+  },
+  {
     "id": 42386,
     "name": "Super Regiane-se",
     "url": "https://dl.smwcentral.net/42386/Super%20Regiane-se.zip",
