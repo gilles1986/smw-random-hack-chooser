@@ -1,5 +1,18 @@
 [
   {
+    "id": 42400,
+    "name": "100 Rooms Of Torment",
+    "url": "https://dl.smwcentral.net/42400/100%20Torment%20of%20Rooms.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42400",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_7",
+    "difficultyLabel": "Grandmaster",
+    "time": 1779683397,
+    "exits": 0
+  },
+  {
     "id": 42393,
     "name": "Castlemania II",
     "url": "https://dl.smwcentral.net/42393/Castlemania%20II%20v1.1.zip",
