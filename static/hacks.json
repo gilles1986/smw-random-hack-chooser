@@ -1,5 +1,31 @@
 [
   {
+    "id": 42425,
+    "name": "This Is Why We Kaizo",
+    "url": "https://dl.smwcentral.net/42425/ThisIsWhyWeKaizo.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42425",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1779759903,
+    "exits": 9
+  },
+  {
+    "id": 42362,
+    "name": "Aeron's Golden Cookie Quest ~ Special Edition",
+    "url": "https://dl.smwcentral.net/42362/Aeron%27s%20Golden%20Cookie%20Quest%20-%20Special%20Edition%20%28ver.5.0.1%29.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42362",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1779751464,
+    "exits": 10
+  },
+  {
     "id": 42400,
     "name": "100 Rooms Of Torment",
     "url": "https://dl.smwcentral.net/42400/100%20Torment%20of%20Rooms.zip",
