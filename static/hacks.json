@@ -1,5 +1,18 @@
 [
   {
+    "id": 42366,
+    "name": "Super Mario Bros 3 as Dinosaur Land",
+    "url": "https://dl.smwcentral.net/42366/SMB3%20as%20Dinosaur%20Land%20v3.4.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42366",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1779814883,
+    "exits": 120
+  },
+  {
     "id": 42425,
     "name": "This Is Why We Kaizo",
     "url": "https://dl.smwcentral.net/42425/ThisIsWhyWeKaizo.zip",
