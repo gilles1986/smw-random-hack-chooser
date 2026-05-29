@@ -1,5 +1,18 @@
 [
   {
+    "id": 42415,
+    "name": "Super Alex Demo",
+    "url": "https://dl.smwcentral.net/42415/Super%20Alex%20Demo.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42415",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1779976938,
+    "exits": 7
+  },
+  {
     "id": 42366,
     "name": "Super Mario Bros 3 as Dinosaur Land",
     "url": "https://dl.smwcentral.net/42366/SMB3%20as%20Dinosaur%20Land%20v3.4.zip",
