@@ -1,5 +1,44 @@
 [
   {
+    "id": 42450,
+    "name": "Halloween Kaizo World",
+    "url": "https://dl.smwcentral.net/42450/Halloween%20Kaizo%20World%20v1.2.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42450",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1780253552,
+    "exits": 5
+  },
+  {
+    "id": 42448,
+    "name": "PLAYTIME",
+    "url": "https://dl.smwcentral.net/42448/playtime_1.1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42448",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1780240387,
+    "exits": 17
+  },
+  {
+    "id": 42411,
+    "name": "Oblivion",
+    "url": "https://dl.smwcentral.net/42411/Oblivion.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42411",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1780233583,
+    "exits": 15
+  },
+  {
     "id": 42415,
     "name": "Super Alex Demo",
     "url": "https://dl.smwcentral.net/42415/Super%20Alex%20Demo.zip",
