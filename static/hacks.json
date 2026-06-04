@@ -1,5 +1,18 @@
 [
   {
+    "id": 42458,
+    "name": "La Connaisseuse de Kaizo",
+    "url": "https://dl.smwcentral.net/42458/La%20Connaisseuse%20de%20Kaizo.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42458",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1780506877,
+    "exits": 9
+  },
+  {
     "id": 42450,
     "name": "Halloween Kaizo World",
     "url": "https://dl.smwcentral.net/42450/Halloween%20Kaizo%20World%20v1.2.zip",
