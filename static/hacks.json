@@ -1,5 +1,18 @@
 [
   {
+    "id": 42493,
+    "name": "Starting with Kaizo 2",
+    "url": "https://dl.smwcentral.net/42493/Starting%20with%20Kaizo%202%20-%201.0.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42493",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1780699578,
+    "exits": 10
+  },
+  {
     "id": 42458,
     "name": "La Connaisseuse de Kaizo",
     "url": "https://dl.smwcentral.net/42458/La%20Connaisseuse%20de%20Kaizo.zip",
