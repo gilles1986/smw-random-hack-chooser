@@ -1,5 +1,31 @@
 [
   {
+    "id": 42489,
+    "name": "Shella Sick (A Hella Sick Shell Hack)",
+    "url": "https://dl.smwcentral.net/42489/Shella%20Sick%20%28A%20Hella%20Sick%20Shell%20Hack%29%20v1_1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42489",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1780869033,
+    "exits": 14
+  },
+  {
+    "id": 42402,
+    "name": "Jam",
+    "url": "https://dl.smwcentral.net/42402/JamV120.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42402",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1780854696,
+    "exits": 14
+  },
+  {
     "id": 42492,
     "name": "Tower Of Glory 2",
     "url": "https://dl.smwcentral.net/42492/Tower%20of%20Glory%202.zip",
