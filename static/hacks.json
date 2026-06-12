@@ -1,5 +1,18 @@
 [
   {
+    "id": 42515,
+    "name": "Simply Kaizo",
+    "url": "https://dl.smwcentral.net/42515/Simply%20Kaizo.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42515",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1781221652,
+    "exits": 11
+  },
+  {
     "id": 42489,
     "name": "Shella Sick (A Hella Sick Shell Hack)",
     "url": "https://dl.smwcentral.net/42489/Shella%20Sick%20%28A%20Hella%20Sick%20Shell%20Hack%29%20v1_1.zip",
