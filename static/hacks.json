@@ -1,5 +1,31 @@
 [
   {
+    "id": 42528,
+    "name": "Aperitif",
+    "url": "https://dl.smwcentral.net/42528/Aperitif.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42528",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1781314662,
+    "exits": 13
+  },
+  {
+    "id": 42519,
+    "name": "Super MADE World",
+    "url": "https://dl.smwcentral.net/42519/Super%20MADE%20World.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42519",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1781256387,
+    "exits": 10
+  },
+  {
     "id": 42515,
     "name": "Simply Kaizo",
     "url": "https://dl.smwcentral.net/42515/Simply%20Kaizo.zip",
