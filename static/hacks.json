@@ -1,5 +1,31 @@
 [
   {
+    "id": 42380,
+    "name": "Super Mario World - Bowser's Return Redux",
+    "url": "https://dl.smwcentral.net/42380/Super%20Mario%20World%20-%20Bowser%27s%20Return%20Redux.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42380",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1781818738,
+    "exits": 62
+  },
+  {
+    "id": 42504,
+    "name": "Tower Of Glory 2",
+    "url": "https://dl.smwcentral.net/42504/Tower%20of%20Glory%202%20%281%29.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42504",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1781760993,
+    "exits": 0
+  },
+  {
     "id": 42528,
     "name": "Aperitif",
     "url": "https://dl.smwcentral.net/42528/Aperitif.zip",
