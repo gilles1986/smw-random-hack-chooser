@@ -1,5 +1,31 @@
 [
   {
+    "id": 42560,
+    "name": "Aperitif",
+    "url": "https://dl.smwcentral.net/42560/Aperitif1.1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42560",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1781875773,
+    "exits": 13
+  },
+  {
+    "id": 42379,
+    "name": "Super Mario World - Bowser's Return",
+    "url": "https://dl.smwcentral.net/42379/Super%20Mario%20World%20-%20Bowser%27s%20Return.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42379",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1781851705,
+    "exits": 60
+  },
+  {
     "id": 42380,
     "name": "Super Mario World - Bowser's Return Redux",
     "url": "https://dl.smwcentral.net/42380/Super%20Mario%20World%20-%20Bowser%27s%20Return%20Redux.zip",
