@@ -1,5 +1,18 @@
 [
   {
+    "id": 42566,
+    "name": "The Precise Is Right v1.1",
+    "url": "https://dl.smwcentral.net/42566/The%20Precise%20Is%20Right%20V1.1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42566",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1782026139,
+    "exits": 8
+  },
+  {
     "id": 42560,
     "name": "Aperitif",
     "url": "https://dl.smwcentral.net/42560/Aperitif1.1.zip",
