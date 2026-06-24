@@ -1,5 +1,31 @@
 [
   {
+    "id": 42544,
+    "name": "Let's A Go!",
+    "url": "https://dl.smwcentral.net/42544/LAG.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42544",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1782238062,
+    "exits": 34
+  },
+  {
+    "id": 42543,
+    "name": "PLAYTIME",
+    "url": "https://dl.smwcentral.net/42543/playtime_1.11.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42543",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1782194122,
+    "exits": 17
+  },
+  {
     "id": 42566,
     "name": "The Precise Is Right v1.1",
     "url": "https://dl.smwcentral.net/42566/The%20Precise%20Is%20Right%20V1.1.zip",
