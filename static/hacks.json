@@ -1,5 +1,18 @@
 [
   {
+    "id": 42582,
+    "name": "Sonic Kaizo World",
+    "url": "https://dl.smwcentral.net/42582/Sonic%20Kaizo%20World.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42582",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1782352192,
+    "exits": 21
+  },
+  {
     "id": 42544,
     "name": "Let's A Go!",
     "url": "https://dl.smwcentral.net/42544/LAG.zip",
