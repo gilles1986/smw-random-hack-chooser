@@ -1,5 +1,31 @@
 [
   {
+    "id": 42459,
+    "name": "Castlemania - REVAMPED",
+    "url": "https://dl.smwcentral.net/42459/Castlemania%20-%20REVAMPED.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42459",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1782445865,
+    "exits": 6
+  },
+  {
+    "id": 42385,
+    "name": "Yoshi's Revenge",
+    "url": "https://dl.smwcentral.net/42385/Yoshi%27s%20Revenge%201.1.1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42385",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1782436390,
+    "exits": 46
+  },
+  {
     "id": 42582,
     "name": "Sonic Kaizo World",
     "url": "https://dl.smwcentral.net/42582/Sonic%20Kaizo%20World.zip",
