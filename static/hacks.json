@@ -1,5 +1,18 @@
 [
   {
+    "id": 42594,
+    "name": "TheIslands",
+    "url": "https://dl.smwcentral.net/42594/TheIslandsv1.1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42594",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1782490359,
+    "exits": 13
+  },
+  {
     "id": 42459,
     "name": "Castlemania - REVAMPED",
     "url": "https://dl.smwcentral.net/42459/Castlemania%20-%20REVAMPED.zip",
