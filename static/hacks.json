@@ -1,5 +1,18 @@
 [
   {
+    "id": 42427,
+    "name": "YNT MARIO",
+    "url": "https://dl.smwcentral.net/42427/ynt_mario_en_v1.0.6.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42427",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1782679891,
+    "exits": 113
+  },
+  {
     "id": 42594,
     "name": "TheIslands",
     "url": "https://dl.smwcentral.net/42594/TheIslandsv1.1.zip",
