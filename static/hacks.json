@@ -1,5 +1,31 @@
 [
   {
+    "id": 42537,
+    "name": "MrUg's Mini Level Pack",
+    "url": "https://dl.smwcentral.net/42537/MMLP.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42537",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1782776390,
+    "exits": 4
+  },
+  {
+    "id": 42602,
+    "name": "Castlemania II - REVAMPED",
+    "url": "https://dl.smwcentral.net/42602/Castlemania%20II%20-%20REVAMPED.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42602",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1782764581,
+    "exits": 6
+  },
+  {
     "id": 42427,
     "name": "YNT MARIO",
     "url": "https://dl.smwcentral.net/42427/ynt_mario_en_v1.0.6.zip",
