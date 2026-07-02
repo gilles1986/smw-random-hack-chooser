@@ -1,5 +1,18 @@
 [
   {
+    "id": 42500,
+    "name": "Crash Bandicoot and the Retro Dimension",
+    "url": "https://dl.smwcentral.net/42500/Crash%20Bandicoot%20and%20the%20Retro%20Dimension%20Enhanced.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42500",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1782941732,
+    "exits": 102
+  },
+  {
     "id": 42537,
     "name": "MrUg's Mini Level Pack",
     "url": "https://dl.smwcentral.net/42537/MMLP.zip",
