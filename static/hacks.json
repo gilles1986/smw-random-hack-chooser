@@ -1,5 +1,31 @@
 [
   {
+    "id": 42466,
+    "name": "Super Mario: The Quest for Breakfast",
+    "url": "https://dl.smwcentral.net/42466/SMTQFB_v1.2.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42466",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1783111967,
+    "exits": 19
+  },
+  {
+    "id": 42588,
+    "name": "Oxworm 2",
+    "url": "https://dl.smwcentral.net/42588/Oxworm2.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42588",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1783106939,
+    "exits": 29
+  },
+  {
     "id": 42555,
     "name": "Super Mario World II",
     "url": "https://dl.smwcentral.net/42555/Super%20Mario%20World%20II.zip",
