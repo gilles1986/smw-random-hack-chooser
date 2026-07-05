@@ -1,5 +1,57 @@
 [
   {
+    "id": 42564,
+    "name": "Super Mario World: The Magical Golden Mushroom",
+    "url": "https://dl.smwcentral.net/42564/Super%20Mario%20World%20-%20The%20Magical%20Golden%20Mushroom%20v1.2.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42564",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1783232415,
+    "exits": 70
+  },
+  {
+    "id": 42624,
+    "name": "White Men Can´t Toss",
+    "url": "https://dl.smwcentral.net/42624/WhiteMenCantToss.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42624",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_7",
+    "difficultyLabel": "Grandmaster",
+    "time": 1783207655,
+    "exits": 9
+  },
+  {
+    "id": 42631,
+    "name": "Kaizo Breeze",
+    "url": "https://dl.smwcentral.net/42631/KaizoBreeze.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42631",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1783178655,
+    "exits": 12
+  },
+  {
+    "id": 42626,
+    "name": "a pretty view",
+    "url": "https://dl.smwcentral.net/42626/a%20pretty%20view.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42626",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1783175899,
+    "exits": 13
+  },
+  {
     "id": 42466,
     "name": "Super Mario: The Quest for Breakfast",
     "url": "https://dl.smwcentral.net/42466/SMTQFB_v1.2.zip",
