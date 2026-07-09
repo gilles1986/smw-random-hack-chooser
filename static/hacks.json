@@ -1,5 +1,32 @@
 [
   {
+    "id": 42669,
+    "name": "Super Mario and Luigi World: Brotherhood",
+    "url": "https://dl.smwcentral.net/42669/brotherhood.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42669",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1783578643,
+    "exits": 12
+  },
+  {
+    "id": 42546,
+    "name": "Pit of Gui!! (Reformulated Version)",
+    "url": "https://dl.smwcentral.net/42546/Pit%20of%20Gui%21%21%20V1.4%20%28Reformulated%20Version%29.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42546",
+    "types": [
+      "tool_assisted",
+      "pit"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1783533021,
+    "exits": 1
+  },
+  {
     "id": 42564,
     "name": "Super Mario World: The Magical Golden Mushroom",
     "url": "https://dl.smwcentral.net/42564/Super%20Mario%20World%20-%20The%20Magical%20Golden%20Mushroom%20v1.2.zip",
