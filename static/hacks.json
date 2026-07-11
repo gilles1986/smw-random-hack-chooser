@@ -1,5 +1,31 @@
 [
   {
+    "id": 42661,
+    "name": "Brothermen",
+    "url": "https://dl.smwcentral.net/42661/Brothermen.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42661",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1783747736,
+    "exits": 5
+  },
+  {
+    "id": 42671,
+    "name": "rokeshell 2",
+    "url": "https://dl.smwcentral.net/42671/rokeshell2.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42671",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1783714187,
+    "exits": 13
+  },
+  {
     "id": 42653,
     "name": "Ninpp World",
     "url": "https://dl.smwcentral.net/42653/Ninpp%20World.zip",
