@@ -1,5 +1,70 @@
 [
   {
+    "id": 42614,
+    "name": "Super Waluigi: Rescue Wario",
+    "url": "https://dl.smwcentral.net/42614/Super%20Waluigi%20-%20Rescue%20Wario%20v1.4.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42614",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1783894658,
+    "exits": 11
+  },
+  {
+    "id": 42509,
+    "name": "Tears Joy and Happiness v1.1",
+    "url": "https://dl.smwcentral.net/42509/tearsjoyandhappiness.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42509",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1783888974,
+    "exits": 21
+  },
+  {
+    "id": 42541,
+    "name": "Crash Bandicoot and the Retro Dimension 2 - The Crystal Hunt",
+    "url": "https://dl.smwcentral.net/42541/Crash%20Bandicoot%20and%20The%20Retro%20Dimension%202%20-%20The%20Crystal%20Hunt.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42541",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1783884148,
+    "exits": 120
+  },
+  {
+    "id": 42650,
+    "name": "Simply Kaizo",
+    "url": "https://dl.smwcentral.net/42650/Simply%20Kaizo.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42650",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1783867729,
+    "exits": 11
+  },
+  {
+    "id": 42470,
+    "name": "Jumps Rhymes and Life",
+    "url": "https://dl.smwcentral.net/42470/JumpsRhymesLife.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42470",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1783861628,
+    "exits": 25
+  },
+  {
     "id": 42661,
     "name": "Brothermen",
     "url": "https://dl.smwcentral.net/42661/Brothermen.zip",
