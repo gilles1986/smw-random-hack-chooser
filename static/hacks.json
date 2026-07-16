@@ -1,5 +1,18 @@
 [
   {
+    "id": 42645,
+    "name": "Super Mario: The Quest for Breakfast",
+    "url": "https://dl.smwcentral.net/42645/SMTQFB_v1.3.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42645",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1784177706,
+    "exits": 19
+  },
+  {
     "id": 42614,
     "name": "Super Waluigi: Rescue Wario",
     "url": "https://dl.smwcentral.net/42614/Super%20Waluigi%20-%20Rescue%20Wario%20v1.4.zip",
