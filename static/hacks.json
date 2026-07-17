@@ -1,5 +1,44 @@
 [
   {
+    "id": 42700,
+    "name": "Coriolis",
+    "url": "https://dl.smwcentral.net/42700/Coriolis.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42700",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1784263287,
+    "exits": 23
+  },
+  {
+    "id": 42699,
+    "name": "Pointless",
+    "url": "https://dl.smwcentral.net/42699/Pointless%201.0.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42699",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1784255609,
+    "exits": 12
+  },
+  {
+    "id": 42687,
+    "name": "Smoked Fish and Cabbage 2",
+    "url": "https://dl.smwcentral.net/42687/Smoked%20Fish%20and%20Cabbage%202%20v1.1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42687",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1784222564,
+    "exits": 28
+  },
+  {
     "id": 42645,
     "name": "Super Mario: The Quest for Breakfast",
     "url": "https://dl.smwcentral.net/42645/SMTQFB_v1.3.zip",
