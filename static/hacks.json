@@ -1,5 +1,31 @@
 [
   {
+    "id": 42703,
+    "name": "Tribute",
+    "url": "https://dl.smwcentral.net/42703/Tribute.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42703",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1784335519,
+    "exits": 16
+  },
+  {
+    "id": 42683,
+    "name": "Blackout Shells",
+    "url": "https://dl.smwcentral.net/42683/Blackout%20shells.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42683",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1784294633,
+    "exits": 4
+  },
+  {
     "id": 42700,
     "name": "Coriolis",
     "url": "https://dl.smwcentral.net/42700/Coriolis.zip",
