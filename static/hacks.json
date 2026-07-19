@@ -1,5 +1,18 @@
 [
   {
+    "id": 42676,
+    "name": "Super Mario World - Bowser's Return",
+    "url": "https://dl.smwcentral.net/42676/Super%20Mario%20World%20-%20Bowser%27s%20Return%20%282026%20Version%20-%20Update%202%29.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42676",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1784421174,
+    "exits": 60
+  },
+  {
     "id": 42703,
     "name": "Tribute",
     "url": "https://dl.smwcentral.net/42703/Tribute.zip",
