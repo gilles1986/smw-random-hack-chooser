@@ -1,5 +1,57 @@
 [
   {
+    "id": 42545,
+    "name": "Super Mario World Challenges 2",
+    "url": "https://dl.smwcentral.net/42545/%5BHack%5D%20Super%20Mario%20World%20Challenges%202%20v1.0.2..zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42545",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1784522216,
+    "exits": 6
+  },
+  {
+    "id": 42620,
+    "name": "Toad's World",
+    "url": "https://dl.smwcentral.net/42620/Toad%27s%20World%20%282026%20Version%201.2%29.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42620",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1784512820,
+    "exits": 56
+  },
+  {
+    "id": 42670,
+    "name": "Kaizo Breeze",
+    "url": "https://dl.smwcentral.net/42670/KaizoBreezev1.1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42670",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1784510611,
+    "exits": 12
+  },
+  {
+    "id": 41515,
+    "name": "Jumpscare",
+    "url": "https://dl.smwcentral.net/41515/Jumpsc.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=41515",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1784462400,
+    "exits": 12
+  },
+  {
     "id": 42676,
     "name": "Super Mario World - Bowser's Return",
     "url": "https://dl.smwcentral.net/42676/Super%20Mario%20World%20-%20Bowser%27s%20Return%20%282026%20Version%20-%20Update%202%29.zip",
