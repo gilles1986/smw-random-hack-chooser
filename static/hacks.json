@@ -1,5 +1,18 @@
 [
   {
+    "id": 42682,
+    "name": "Mario's Otherworld",
+    "url": "https://dl.smwcentral.net/42682/mow_v1_0.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42682",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1784600043,
+    "exits": 17
+  },
+  {
     "id": 42545,
     "name": "Super Mario World Challenges 2",
     "url": "https://dl.smwcentral.net/42545/%5BHack%5D%20Super%20Mario%20World%20Challenges%202%20v1.0.2..zip",
