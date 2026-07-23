@@ -1,5 +1,18 @@
 [
   {
+    "id": 42495,
+    "name": "Super Mario Bros 3 as Dinosaur Land",
+    "url": "https://dl.smwcentral.net/42495/SMB3%20as%20Dinosaur%20Land%20v3.4.2.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42495",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1784757465,
+    "exits": 120
+  },
+  {
     "id": 42721,
     "name": "Coriolis",
     "url": "https://dl.smwcentral.net/42721/Coriolis.zip",
