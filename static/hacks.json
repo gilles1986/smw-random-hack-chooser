@@ -1,5 +1,18 @@
 [
   {
+    "id": 42718,
+    "name": "Jumpscare",
+    "url": "https://dl.smwcentral.net/42718/Jumpsc.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42718",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1784894401,
+    "exits": 12
+  },
+  {
     "id": 42495,
     "name": "Super Mario Bros 3 as Dinosaur Land",
     "url": "https://dl.smwcentral.net/42495/SMB3%20as%20Dinosaur%20Land%20v3.4.2.zip",
