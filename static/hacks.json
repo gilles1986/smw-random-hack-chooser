@@ -1,5 +1,44 @@
 [
   {
+    "id": 42563,
+    "name": "Tortured Souls 3",
+    "url": "https://dl.smwcentral.net/42563/Tortured%20Souls%203%201.2.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42563",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1785012924,
+    "exits": 61
+  },
+  {
+    "id": 42702,
+    "name": "Ninpp World",
+    "url": "https://dl.smwcentral.net/42702/NinppWorld1.1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42702",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1785001478,
+    "exits": 20
+  },
+  {
+    "id": 42723,
+    "name": "Smoked Fish and Cabbage 3",
+    "url": "https://dl.smwcentral.net/42723/Smoked%20Fish%20and%20Cabbage%203%20v1.1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42723",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1784981799,
+    "exits": 28
+  },
+  {
     "id": 42718,
     "name": "Jumpscare",
     "url": "https://dl.smwcentral.net/42718/Jumpsc.zip",
