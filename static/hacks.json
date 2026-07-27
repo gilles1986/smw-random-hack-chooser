@@ -1,5 +1,18 @@
 [
   {
+    "id": 42712,
+    "name": "It Snakes Too",
+    "url": "https://dl.smwcentral.net/42712/ItSnakesToo.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42712",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1785112611,
+    "exits": 5
+  },
+  {
     "id": 42563,
     "name": "Tortured Souls 3",
     "url": "https://dl.smwcentral.net/42563/Tortured%20Souls%203%201.2.zip",
