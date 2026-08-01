@@ -1,5 +1,18 @@
 [
   {
+    "id": 42755,
+    "name": "Gransys",
+    "url": "https://dl.smwcentral.net/42755/Gransys.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42755",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1785535655,
+    "exits": 46
+  },
+  {
     "id": 42712,
     "name": "It Snakes Too",
     "url": "https://dl.smwcentral.net/42712/ItSnakesToo.zip",
