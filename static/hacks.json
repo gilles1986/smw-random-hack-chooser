@@ -1,5 +1,18 @@
 [
   {
+    "id": 42737,
+    "name": "Super Mario World Ridley X Hack 2 Super 8-Bit",
+    "url": "https://dl.smwcentral.net/42737/smw%20ridleyx%20hack2%20v1.0.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42737",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1785601636,
+    "exits": 53
+  },
+  {
     "id": 42755,
     "name": "Gransys",
     "url": "https://dl.smwcentral.net/42755/Gransys.zip",
