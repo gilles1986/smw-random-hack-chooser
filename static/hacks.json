@@ -1,5 +1,18 @@
 [
   {
+    "id": 42785,
+    "name": "The Sweet Sweet Love Unabridged",
+    "url": "https://dl.smwcentral.net/42785/The_Sweet_Sweet_Love_Unabridged_V1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42785",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1786576662,
+    "exits": 51
+  },
+  {
     "id": 42727,
     "name": "Toad's World 2",
     "url": "https://dl.smwcentral.net/42727/Toad%27s%20World%202%20v1.3.zip",
