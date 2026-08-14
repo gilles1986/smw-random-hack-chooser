@@ -1,5 +1,31 @@
 [
   {
+    "id": 42841,
+    "name": "Critter Quest",
+    "url": "https://dl.smwcentral.net/42841/Critter%20Quest%20v1.2.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42841",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1786649149,
+    "exits": 10
+  },
+  {
+    "id": 42730,
+    "name": "Super XLer8 World - Chapter 1: Luigi and the Seven Castles",
+    "url": "https://dl.smwcentral.net/42730/XL8.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42730",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1786647994,
+    "exits": 20
+  },
+  {
     "id": 42785,
     "name": "The Sweet Sweet Love Unabridged",
     "url": "https://dl.smwcentral.net/42785/The_Sweet_Sweet_Love_Unabridged_V1.zip",
