@@ -1,5 +1,18 @@
 [
   {
+    "id": 42858,
+    "name": "Jumps Rhymes and Life",
+    "url": "https://dl.smwcentral.net/42858/JumpsRhymesLife.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42858",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1787022196,
+    "exits": 25
+  },
+  {
     "id": 42841,
     "name": "Critter Quest",
     "url": "https://dl.smwcentral.net/42841/Critter%20Quest%20v1.2.zip",
