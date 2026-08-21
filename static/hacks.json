@@ -1,5 +1,18 @@
 [
   {
+    "id": 42821,
+    "name": "Crash Bandicoot and the Retro Dimension 2 - The Crystal Hunt",
+    "url": "https://dl.smwcentral.net/42821/Crash%20Bandicoot%20and%20The%20Retro%20Dimension%202%20-%20The%20Crystal%20Hunt.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42821",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1787262154,
+    "exits": 120
+  },
+  {
     "id": 42858,
     "name": "Jumps Rhymes and Life",
     "url": "https://dl.smwcentral.net/42858/JumpsRhymesLife.zip",
