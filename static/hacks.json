@@ -1,5 +1,18 @@
 [
   {
+    "id": 42825,
+    "name": "Toad's World",
+    "url": "https://dl.smwcentral.net/42825/Toad%27s%20World%20%282026%20Version%201.4%29.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42825",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1787335092,
+    "exits": 56
+  },
+  {
     "id": 42821,
     "name": "Crash Bandicoot and the Retro Dimension 2 - The Crystal Hunt",
     "url": "https://dl.smwcentral.net/42821/Crash%20Bandicoot%20and%20The%20Retro%20Dimension%202%20-%20The%20Crystal%20Hunt.zip",
