@@ -1,5 +1,18 @@
 [
   {
+    "id": 42909,
+    "name": "Mario's Inferno",
+    "url": "https://dl.smwcentral.net/42909/Mario%27s%20Inferno.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42909",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1787418122,
+    "exits": 9
+  },
+  {
     "id": 42825,
     "name": "Toad's World",
     "url": "https://dl.smwcentral.net/42825/Toad%27s%20World%20%282026%20Version%201.4%29.zip",
