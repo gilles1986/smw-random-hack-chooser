@@ -1,5 +1,31 @@
 [
   {
+    "id": 43078,
+    "name": "Super Jump and Shells",
+    "url": "https://dl.smwcentral.net/43078/SuperJumpandShells.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43078",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1787806205,
+    "exits": 14
+  },
+  {
+    "id": 42889,
+    "name": "a girl's special treat (and my regards to the head of the mice 🐁)",
+    "url": "https://dl.smwcentral.net/42889/a%20girl%27s%20special%20treat.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42889",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1787805040,
+    "exits": 9
+  },
+  {
     "id": 42844,
     "name": "Nays Nice Hack",
     "url": "https://dl.smwcentral.net/42844/NaysNiceHack1.0.zip",
