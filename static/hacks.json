@@ -1,5 +1,18 @@
 [
   {
+    "id": 42845,
+    "name": "super xler8 world (2)",
+    "url": "https://dl.smwcentral.net/42845/XL2.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42845",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1787863332,
+    "exits": 19
+  },
+  {
     "id": 43078,
     "name": "Super Jump and Shells",
     "url": "https://dl.smwcentral.net/43078/SuperJumpandShells.zip",
