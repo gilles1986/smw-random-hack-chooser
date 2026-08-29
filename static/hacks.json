@@ -1,5 +1,18 @@
 [
   {
+    "id": 42891,
+    "name": "Super Wario World: Master Chuck's Revenge",
+    "url": "https://dl.smwcentral.net/42891/Super%20Wario%20World%20-%20Master%20Chuck%27s%20Revenge%20v1.1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42891",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1787950347,
+    "exits": 58
+  },
+  {
     "id": 42845,
     "name": "super xler8 world (2)",
     "url": "https://dl.smwcentral.net/42845/XL2.zip",
