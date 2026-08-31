@@ -1,5 +1,18 @@
 [
   {
+    "id": 43091,
+    "name": "Bunbun 4",
+    "url": "https://dl.smwcentral.net/43091/Bunbun4%20v1.0.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43091",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1788106152,
+    "exits": 27
+  },
+  {
     "id": 42891,
     "name": "Super Wario World: Master Chuck's Revenge",
     "url": "https://dl.smwcentral.net/42891/Super%20Wario%20World%20-%20Master%20Chuck%27s%20Revenge%20v1.1.zip",
