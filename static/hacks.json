@@ -1,5 +1,18 @@
 [
   {
+    "id": 42895,
+    "name": "Super Mario World: Vanilla Peak",
+    "url": "https://dl.smwcentral.net/42895/smwvp.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42895",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1788223363,
+    "exits": 6
+  },
+  {
     "id": 43091,
     "name": "Bunbun 4",
     "url": "https://dl.smwcentral.net/43091/Bunbun4%20v1.0.zip",
