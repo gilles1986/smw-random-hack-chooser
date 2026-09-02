@@ -1,5 +1,31 @@
 [
   {
+    "id": 43106,
+    "name": "Christmas Hack 2",
+    "url": "https://dl.smwcentral.net/43106/Christmas%20Hack%202.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43106",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1788319793,
+    "exits": 6
+  },
+  {
+    "id": 43071,
+    "name": "Mount Pentimento",
+    "url": "https://dl.smwcentral.net/43071/Mount%20Pentimento%20%28V1.1%29.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43071",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1788295952,
+    "exits": 117
+  },
+  {
     "id": 42895,
     "name": "Super Mario World: Vanilla Peak",
     "url": "https://dl.smwcentral.net/42895/smwvp.zip",
