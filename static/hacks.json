@@ -1,5 +1,18 @@
 [
   {
+    "id": 42894,
+    "name": "Scrap Diary",
+    "url": "https://dl.smwcentral.net/42894/Scrap%20Diary%20v1.0.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42894",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1788442234,
+    "exits": 82
+  },
+  {
     "id": 43106,
     "name": "Christmas Hack 2",
     "url": "https://dl.smwcentral.net/43106/Christmas%20Hack%202.zip",
