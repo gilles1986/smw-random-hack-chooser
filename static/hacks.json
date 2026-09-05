@@ -1,5 +1,18 @@
 [
   {
+    "id": 43090,
+    "name": "Somewhere Beyond The Moon",
+    "url": "https://dl.smwcentral.net/43090/BeyondTheMoon.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43090",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1788560948,
+    "exits": 14
+  },
+  {
     "id": 42894,
     "name": "Scrap Diary",
     "url": "https://dl.smwcentral.net/42894/Scrap%20Diary%20v1.0.zip",
