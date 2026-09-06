@@ -1,5 +1,18 @@
 [
   {
+    "id": 42606,
+    "name": "Mario's Misadventures 2: The Black Hole Bomb",
+    "url": "https://dl.smwcentral.net/42606/MariosMisadventures2%20v1.3.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42606",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1788637073,
+    "exits": 98
+  },
+  {
     "id": 43090,
     "name": "Somewhere Beyond The Moon",
     "url": "https://dl.smwcentral.net/43090/BeyondTheMoon.zip",
