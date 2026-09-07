@@ -1,5 +1,18 @@
 [
   {
+    "id": 43120,
+    "name": "Kaizen Mario World",
+    "url": "https://dl.smwcentral.net/43120/kaizenmarioworld1.1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43120",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1788711032,
+    "exits": 13
+  },
+  {
     "id": 42606,
     "name": "Mario's Misadventures 2: The Black Hole Bomb",
     "url": "https://dl.smwcentral.net/42606/MariosMisadventures2%20v1.3.zip",
