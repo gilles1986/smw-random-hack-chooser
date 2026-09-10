@@ -1,5 +1,18 @@
 [
   {
+    "id": 43131,
+    "name": "Six Cruel Hours Of Our Lives",
+    "url": "https://dl.smwcentral.net/43131/Six%20Cruel%20Hours%20Of%20Our%20Lives.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43131",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1789002463,
+    "exits": 6
+  },
+  {
     "id": 43133,
     "name": "Super MADE World",
     "url": "https://dl.smwcentral.net/43133/Super%20MADE%20World%20v1.1.zip",
