@@ -1,5 +1,31 @@
 [
   {
+    "id": 43085,
+    "name": "Super Mario World: Legend of the Magical Dragons",
+    "url": "https://dl.smwcentral.net/43085/Super%20Mario%20World%20-%20Legend%20of%20the%20Magical%20Dragons%20Demo%20v0.2.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43085",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1789169307,
+    "exits": 13
+  },
+  {
+    "id": 43073,
+    "name": "Cruel Angel World",
+    "url": "https://dl.smwcentral.net/43073/Cruel%20Angel%20World%20V1.1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43073",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1789148501,
+    "exits": 15
+  },
+  {
     "id": 43131,
     "name": "Six Cruel Hours Of Our Lives",
     "url": "https://dl.smwcentral.net/43131/Six%20Cruel%20Hours%20Of%20Our%20Lives.zip",
