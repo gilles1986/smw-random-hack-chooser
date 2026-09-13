@@ -1,5 +1,31 @@
 [
   {
+    "id": 43132,
+    "name": "Baby Kaizo World 3",
+    "url": "https://dl.smwcentral.net/43132/Baby_Kaizo_World_3.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43132",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1789243120,
+    "exits": 27
+  },
+  {
+    "id": 42832,
+    "name": "Where the universe breaks",
+    "url": "https://dl.smwcentral.net/42832/Edge.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42832",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_7",
+    "difficultyLabel": "Grandmaster",
+    "time": 1789220385,
+    "exits": 6
+  },
+  {
     "id": 43085,
     "name": "Super Mario World: Legend of the Magical Dragons",
     "url": "https://dl.smwcentral.net/43085/Super%20Mario%20World%20-%20Legend%20of%20the%20Magical%20Dragons%20Demo%20v0.2.zip",
