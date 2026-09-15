@@ -1,5 +1,18 @@
 [
   {
+    "id": 43148,
+    "name": "For the Love of Mario",
+    "url": "https://dl.smwcentral.net/43148/For%20the%20Love%20of%20Mario.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43148",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1789443118,
+    "exits": 8
+  },
+  {
     "id": 43132,
     "name": "Baby Kaizo World 3",
     "url": "https://dl.smwcentral.net/43132/Baby_Kaizo_World_3.zip",
