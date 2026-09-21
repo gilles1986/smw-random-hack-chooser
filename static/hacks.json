@@ -1,5 +1,45 @@
 [
   {
+    "id": 43171,
+    "name": "Christmas Hack 2",
+    "url": "https://dl.smwcentral.net/43171/Christmas%20Hack%202.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43171",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1789885826,
+    "exits": 6
+  },
+  {
+    "id": 43162,
+    "name": "Rooting for Toad",
+    "url": "https://dl.smwcentral.net/43162/Rooting%20for%20Toad.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43162",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_1",
+    "difficultyLabel": "Newcomer",
+    "time": 1789881360,
+    "exits": 4
+  },
+  {
+    "id": 43182,
+    "name": "Vice Versa Manor",
+    "url": "https://dl.smwcentral.net/43182/Vice%20Versa%20Manor.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43182",
+    "types": [
+      "kaizo",
+      "puzzle"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1789879657,
+    "exits": 1
+  },
+  {
     "id": 42788,
     "name": "[DEMO] Super Tr-lol World 2: Return to Tr-lolshi's Island",
     "url": "https://dl.smwcentral.net/42788/%5BDEMO%5DSuper_Trlol_World_2_Return_to_Trlolshis_Island.zip",
