@@ -1,5 +1,18 @@
 [
   {
+    "id": 43191,
+    "name": "Journey to Kaizo",
+    "url": "https://dl.smwcentral.net/43191/Journey%20to%20Kaizo%20v1.1.0.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43191",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1790276955,
+    "exits": 38
+  },
+  {
     "id": 43171,
     "name": "Christmas Hack 2",
     "url": "https://dl.smwcentral.net/43171/Christmas%20Hack%202.zip",
