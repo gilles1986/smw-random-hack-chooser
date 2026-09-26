@@ -1,5 +1,31 @@
 [
   {
+    "id": 43221,
+    "name": "Iridium 2",
+    "url": "https://dl.smwcentral.net/43221/Iridium%202.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43221",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1790390655,
+    "exits": 20
+  },
+  {
+    "id": 43219,
+    "name": "Moonlight",
+    "url": "https://dl.smwcentral.net/43219/Moonlight.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43219",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1790348139,
+    "exits": 10
+  },
+  {
     "id": 43191,
     "name": "Journey to Kaizo",
     "url": "https://dl.smwcentral.net/43191/Journey%20to%20Kaizo%20v1.1.0.zip",
