@@ -1,5 +1,18 @@
 [
   {
+    "id": 42426,
+    "name": "I was always criticizing shell hacks becaus they look the same and copy of each other, then i ended up making one like them",
+    "url": "https://dl.smwcentral.net/42426/The%20Hack.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42426",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_7",
+    "difficultyLabel": "Grandmaster",
+    "time": 1790469272,
+    "exits": 15
+  },
+  {
     "id": 43221,
     "name": "Iridium 2",
     "url": "https://dl.smwcentral.net/43221/Iridium%202.zip",
