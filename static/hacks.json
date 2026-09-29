@@ -1,5 +1,32 @@
 [
   {
+    "id": 43234,
+    "name": "Vice Versa Manor",
+    "url": "https://dl.smwcentral.net/43234/Vice%20Versa%20Manor%20%28V1.1%29.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43234",
+    "types": [
+      "kaizo",
+      "puzzle"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1790651035,
+    "exits": 1
+  },
+  {
+    "id": 42893,
+    "name": "Super Mario Another Retro 2",
+    "url": "https://dl.smwcentral.net/42893/SMAR2.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42893",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1790647390,
+    "exits": 81
+  },
+  {
     "id": 42426,
     "name": "I was always criticizing shell hacks becaus they look the same and copy of each other, then i ended up making one like them",
     "url": "https://dl.smwcentral.net/42426/The%20Hack.zip",
