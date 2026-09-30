@@ -3,6 +3,12 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+  # Pushes made by the fetch workflow use GITHUB_TOKEN and therefore do not
+  # trigger the push event above, so deploy after each fetch run explicitly.
+  workflow_run:
+    workflows: ["Fetch new Hacks daily"]
+    types: [completed]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -16,6 +22,7 @@ concurrency:
 
 jobs:
   build-and-deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
