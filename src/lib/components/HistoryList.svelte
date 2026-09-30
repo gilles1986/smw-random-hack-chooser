@@ -1,13 +1,28 @@
 <script lang="ts">
 	import { historyStore } from '$lib/stores/historyStore';
-	import { DIFFICULTY_ID_TO_LABEL, smwCentralPageUrl } from '$lib/constants';
+	import { DIFFICULTY_ID_TO_LABEL, HISTORY_KEY, smwCentralPageUrl } from '$lib/constants';
+
+	function exportHistory() {
+		// Export exactly what is persisted in localStorage
+		const raw = localStorage.getItem(HISTORY_KEY) ?? '[]';
+		const blob = new Blob([raw], { type: 'application/json' });
+		const url = URL.createObjectURL(blob);
+		const a = document.createElement('a');
+		a.href = url;
+		a.download = `smw-played-hacks-${new Date().toISOString().slice(0, 10)}.json`;
+		a.click();
+		URL.revokeObjectURL(url);
+	}
 </script>
 
 <div class="history-panel">
 	<div class="history-header">
 		<h3>Played Hacks ({$historyStore.length})</h3>
 		{#if $historyStore.length > 0}
-			<button class="btn-clear-all" on:click={() => historyStore.clear()}>Clear all</button>
+			<div class="header-actions">
+				<button class="btn-clear-all btn-export" on:click={exportHistory}>Export JSON</button>
+				<button class="btn-clear-all" on:click={() => historyStore.clear()}>Clear all</button>
+			</div>
 		{/if}
 	</div>
 
@@ -71,6 +86,16 @@
 	.history-header h3 {
 		margin: 0;
 		font-size: 0.95rem;
+	}
+
+	.header-actions {
+		display: flex;
+		gap: 0.4rem;
+	}
+
+	.btn-export:hover {
+		border-color: var(--accent);
+		color: var(--accent);
 	}
 
 	.btn-clear-all {
