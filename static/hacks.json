@@ -1,5 +1,19 @@
 [
   {
+    "id": 43251,
+    "name": "Vice Versa Manor",
+    "url": "https://dl.smwcentral.net/43251/Vice%20Versa%20Manor%20%28V1.2%29.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43251",
+    "types": [
+      "kaizo",
+      "puzzle"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1790913209,
+    "exits": 1
+  },
+  {
     "id": 43234,
     "name": "Vice Versa Manor",
     "url": "https://dl.smwcentral.net/43234/Vice%20Versa%20Manor%20%28V1.1%29.zip",
