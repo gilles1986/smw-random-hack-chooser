@@ -1,5 +1,18 @@
 [
   {
+    "id": 42880,
+    "name": "Cosmic Carl's Happy Fun Slide",
+    "url": "https://dl.smwcentral.net/42880/Cosmic%20Carl%27s%20Happy%20Fun%20Slide%20%28rev.%204%29.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42880",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1790955202,
+    "exits": 3
+  },
+  {
     "id": 43251,
     "name": "Vice Versa Manor",
     "url": "https://dl.smwcentral.net/43251/Vice%20Versa%20Manor%20%28V1.2%29.zip",
