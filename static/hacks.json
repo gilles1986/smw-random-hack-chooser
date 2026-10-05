@@ -1,5 +1,18 @@
 [
   {
+    "id": 42716,
+    "name": "Super Luigi World: A Journey to Save Daisy",
+    "url": "https://dl.smwcentral.net/42716/Super%20Luigi%20World%20-%20A%20Journey%20to%20Save%20Daisy%20v1.1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42716",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1791172098,
+    "exits": 61
+  },
+  {
     "id": 42880,
     "name": "Cosmic Carl's Happy Fun Slide",
     "url": "https://dl.smwcentral.net/42880/Cosmic%20Carl%27s%20Happy%20Fun%20Slide%20%28rev.%204%29.zip",
