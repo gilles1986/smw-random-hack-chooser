@@ -1,5 +1,18 @@
 [
   {
+    "id": 43075,
+    "name": "Toad's World",
+    "url": "https://dl.smwcentral.net/43075/Toad%27s%20World%20%282026%20Version%201.5%29.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43075",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1791252870,
+    "exits": 56
+  },
+  {
     "id": 42716,
     "name": "Super Luigi World: A Journey to Save Daisy",
     "url": "https://dl.smwcentral.net/42716/Super%20Luigi%20World%20-%20A%20Journey%20to%20Save%20Daisy%20v1.1.zip",
