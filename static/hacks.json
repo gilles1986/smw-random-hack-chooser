@@ -1,5 +1,31 @@
 [
   {
+    "id": 43202,
+    "name": "Whatever this is - Demo",
+    "url": "https://dl.smwcentral.net/43202/Whatever%20This%20Is%20-%20Demo.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43202",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1791339598,
+    "exits": 5
+  },
+  {
+    "id": 43243,
+    "name": "For the Love of Mario",
+    "url": "https://dl.smwcentral.net/43243/For%20the%20Love%20of%20Mario%20v1.1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43243",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1791324241,
+    "exits": 8
+  },
+  {
     "id": 43075,
     "name": "Toad's World",
     "url": "https://dl.smwcentral.net/43075/Toad%27s%20World%20%282026%20Version%201.5%29.zip",
