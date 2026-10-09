@@ -1,5 +1,18 @@
 [
   {
+    "id": 43262,
+    "name": "Pinky Sloop Gloop",
+    "url": "https://dl.smwcentral.net/43262/Pinky%20Sloop%20Gloop.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43262",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1791508360,
+    "exits": 11
+  },
+  {
     "id": 43202,
     "name": "Whatever this is - Demo",
     "url": "https://dl.smwcentral.net/43202/Whatever%20This%20Is%20-%20Demo.zip",
