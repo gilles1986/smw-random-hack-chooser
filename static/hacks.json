@@ -1,5 +1,18 @@
 [
   {
+    "id": 43254,
+    "name": "What The Shell! 2",
+    "url": "https://dl.smwcentral.net/43254/What%20The%20Shell%202%21%21.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43254",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1791572386,
+    "exits": 26
+  },
+  {
     "id": 43262,
     "name": "Pinky Sloop Gloop",
     "url": "https://dl.smwcentral.net/43262/Pinky%20Sloop%20Gloop.zip",
