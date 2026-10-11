@@ -1,5 +1,18 @@
 [
   {
+    "id": 43326,
+    "name": "Smoked Fish and Cabbage 4",
+    "url": "https://dl.smwcentral.net/43326/Smoked%20Fish%20and%20Cabbage%204%20v1.0.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43326",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1791661611,
+    "exits": 28
+  },
+  {
     "id": 43254,
     "name": "What The Shell! 2",
     "url": "https://dl.smwcentral.net/43254/What%20The%20Shell%202%21%21.zip",
