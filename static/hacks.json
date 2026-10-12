@@ -1,5 +1,32 @@
 [
   {
+    "id": 43324,
+    "name": "Critter Quest Jr",
+    "url": "https://dl.smwcentral.net/43324/Critter%20Quest%20Jr%20v1.1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43324",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1791748795,
+    "exits": 14
+  },
+  {
+    "id": 42884,
+    "name": "Daizo VS MIXTAPE",
+    "url": "https://dl.smwcentral.net/42884/%5BHack%5D%20Daizo%20VS%20MIXTAPE%20v1.02.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42884",
+    "types": [
+      "standard",
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1791746399,
+    "exits": 12
+  },
+  {
     "id": 43326,
     "name": "Smoked Fish and Cabbage 4",
     "url": "https://dl.smwcentral.net/43326/Smoked%20Fish%20and%20Cabbage%204%20v1.0.zip",
