@@ -1,5 +1,18 @@
 [
   {
+    "id": 42717,
+    "name": "Super Mario World - Bowser's Return Redux",
+    "url": "https://dl.smwcentral.net/42717/Super%20Mario%20World%20-%20Bowser%27s%20Return%20Redux%20%28Version%201.2%29.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42717",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1791784610,
+    "exits": 62
+  },
+  {
     "id": 43324,
     "name": "Critter Quest Jr",
     "url": "https://dl.smwcentral.net/43324/Critter%20Quest%20Jr%20v1.1.zip",
