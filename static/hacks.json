@@ -1,5 +1,18 @@
 [
   {
+    "id": 43359,
+    "name": "Hack 9",
+    "url": "https://dl.smwcentral.net/43359/Hack%209.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43359",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1792047654,
+    "exits": 14
+  },
+  {
     "id": 42717,
     "name": "Super Mario World - Bowser's Return Redux",
     "url": "https://dl.smwcentral.net/42717/Super%20Mario%20World%20-%20Bowser%27s%20Return%20Redux%20%28Version%201.2%29.zip",
