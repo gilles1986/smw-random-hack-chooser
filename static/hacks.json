@@ -1,5 +1,18 @@
 [
   {
+    "id": 43105,
+    "name": "Super Mario Universe Chapter 1",
+    "url": "https://dl.smwcentral.net/43105/SMUCH1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43105",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1792633455,
+    "exits": 96
+  },
+  {
     "id": 43113,
     "name": "New Super Mario World 1: The Twelve Magic Orbs Powered-Up",
     "url": "https://dl.smwcentral.net/43113/New%20Super%20Mario%20World%201%20The%20Twelve%20Magic%20Orbs%20POWERED-UP%20v2.0.1.zip",
