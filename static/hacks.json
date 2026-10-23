@@ -1,5 +1,31 @@
 [
   {
+    "id": 43384,
+    "name": "Whim",
+    "url": "https://dl.smwcentral.net/43384/Whim1.1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43384",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1792694481,
+    "exits": 17
+  },
+  {
+    "id": 43225,
+    "name": "Cruel Angel World",
+    "url": "https://dl.smwcentral.net/43225/Cruel%20Angel%20World%20V1.2.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43225",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1792685352,
+    "exits": 15
+  },
+  {
     "id": 43105,
     "name": "Super Mario Universe Chapter 1",
     "url": "https://dl.smwcentral.net/43105/SMUCH1.zip",
