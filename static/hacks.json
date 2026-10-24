@@ -1,5 +1,18 @@
 [
   {
+    "id": 43394,
+    "name": "Super Mario Universe Chapter 1",
+    "url": "https://dl.smwcentral.net/43394/SMUCH1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43394",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1792814511,
+    "exits": 96
+  },
+  {
     "id": 43384,
     "name": "Whim",
     "url": "https://dl.smwcentral.net/43384/Whim1.1.zip",
