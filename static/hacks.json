@@ -1,5 +1,31 @@
 [
   {
+    "id": 43224,
+    "name": "Somewhere Beyond The Moon",
+    "url": "https://dl.smwcentral.net/43224/BeyondTheMoon.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43224",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1792900058,
+    "exits": 14
+  },
+  {
+    "id": 43399,
+    "name": "Omerta",
+    "url": "https://dl.smwcentral.net/43399/Omerta.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43399",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1792858872,
+    "exits": 10
+  },
+  {
     "id": 43394,
     "name": "Super Mario Universe Chapter 1",
     "url": "https://dl.smwcentral.net/43394/SMUCH1.zip",
