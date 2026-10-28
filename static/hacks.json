@@ -1,5 +1,18 @@
 [
   {
+    "id": 43405,
+    "name": "Get Good",
+    "url": "https://dl.smwcentral.net/43405/Get%20Good%201.4.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43405",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1793158667,
+    "exits": 11
+  },
+  {
     "id": 43224,
     "name": "Somewhere Beyond The Moon",
     "url": "https://dl.smwcentral.net/43224/BeyondTheMoon.zip",
