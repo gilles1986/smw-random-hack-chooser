@@ -1,5 +1,31 @@
 [
   {
+    "id": 43396,
+    "name": "Moonlight",
+    "url": "https://dl.smwcentral.net/43396/Moonlight1_1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43396",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_1",
+    "difficultyLabel": "Newcomer",
+    "time": 1793496014,
+    "exits": 10
+  },
+  {
+    "id": 43432,
+    "name": "Made Together",
+    "url": "https://dl.smwcentral.net/43432/Made%20Together.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43432",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1793473699,
+    "exits": 12
+  },
+  {
     "id": 43405,
     "name": "Get Good",
     "url": "https://dl.smwcentral.net/43405/Get%20Good%201.4.zip",
