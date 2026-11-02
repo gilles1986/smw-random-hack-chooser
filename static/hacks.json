@@ -1,5 +1,18 @@
 [
   {
+    "id": 43416,
+    "name": "Learn To Shell Jump",
+    "url": "https://dl.smwcentral.net/43416/Learn%20To%20Shell%20Jump%20v2.0.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43416",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1793559294,
+    "exits": 12
+  },
+  {
     "id": 43396,
     "name": "Moonlight",
     "url": "https://dl.smwcentral.net/43396/Moonlight1_1.zip",
