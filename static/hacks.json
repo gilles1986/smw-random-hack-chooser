@@ -1,5 +1,44 @@
 [
   {
+    "id": 43439,
+    "name": "Mangort Cafe",
+    "url": "https://dl.smwcentral.net/43439/mangortcafe.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43439",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1793671346,
+    "exits": 1
+  },
+  {
+    "id": 43398,
+    "name": "Eden_World: House of S'Platforms",
+    "url": "https://dl.smwcentral.net/43398/Eden_World-%20House%20of%20S%27Platforms.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43398",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_7",
+    "difficultyLabel": "Grandmaster",
+    "time": 1793656482,
+    "exits": 0
+  },
+  {
+    "id": 43361,
+    "name": "Super Flash World 2",
+    "url": "https://dl.smwcentral.net/43361/FlashWorld2.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43361",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1793620819,
+    "exits": 23
+  },
+  {
     "id": 43416,
     "name": "Learn To Shell Jump",
     "url": "https://dl.smwcentral.net/43416/Learn%20To%20Shell%20Jump%20v2.0.zip",
