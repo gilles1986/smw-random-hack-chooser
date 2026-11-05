@@ -1,5 +1,31 @@
 [
   {
+    "id": 43436,
+    "name": "The Red Island",
+    "url": "https://dl.smwcentral.net/43436/The%20Red%20Island.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43436",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1793846360,
+    "exits": 2
+  },
+  {
+    "id": 41532,
+    "name": "Obstacle Courses for Anti-Gravity Horses",
+    "url": "https://dl.smwcentral.net/41532/Obstacle%20Courses%20for%20Anti-Gravity%20Horses.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=41532",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_7",
+    "difficultyLabel": "Grandmaster",
+    "time": 1793765520,
+    "exits": 13
+  },
+  {
     "id": 43439,
     "name": "Mangort Cafe",
     "url": "https://dl.smwcentral.net/43439/mangortcafe.zip",
