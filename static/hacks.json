@@ -1,5 +1,18 @@
 [
   {
+    "id": 43252,
+    "name": "Sakaya Sanctuary",
+    "url": "https://dl.smwcentral.net/43252/Sakaya%20Sanctuary%201.3.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43252",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1794176088,
+    "exits": 20
+  },
+  {
     "id": 43436,
     "name": "The Red Island",
     "url": "https://dl.smwcentral.net/43436/The%20Red%20Island.zip",
