@@ -1,5 +1,18 @@
 [
   {
+    "id": 43180,
+    "name": "Super Mario Bros. Expedition",
+    "url": "https://dl.smwcentral.net/43180/Super%20Mario%20Bros%20Expedition.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43180",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_3",
+    "difficultyLabel": "Intermediate",
+    "time": 1794296132,
+    "exits": 89
+  },
+  {
     "id": 43252,
     "name": "Sakaya Sanctuary",
     "url": "https://dl.smwcentral.net/43252/Sakaya%20Sanctuary%201.3.zip",
