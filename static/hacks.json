@@ -1,5 +1,18 @@
 [
   {
+    "id": 43481,
+    "name": "Learn To Shell Jump",
+    "url": "https://dl.smwcentral.net/43481/Learn%20To%20Shell%20Jump%20v2.0.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43481",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1794586929,
+    "exits": 12
+  },
+  {
     "id": 42820,
     "name": "Crash Bandicoot and the Retro Dimension",
     "url": "https://dl.smwcentral.net/42820/Crash%20Bandicoot%20and%20the%20Retro%20Dimension%20Enhanced.zip",
