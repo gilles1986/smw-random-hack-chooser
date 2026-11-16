@@ -1,5 +1,18 @@
 [
   {
+    "id": 43489,
+    "name": "Who'll Stop the Rain?",
+    "url": "https://dl.smwcentral.net/43489/Who%27ll%20Stop%20the%20Rain.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43489",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_1",
+    "difficultyLabel": "Newcomer",
+    "time": 1794772788,
+    "exits": 1
+  },
+  {
     "id": 43481,
     "name": "Learn To Shell Jump",
     "url": "https://dl.smwcentral.net/43481/Learn%20To%20Shell%20Jump%20v2.0.zip",
