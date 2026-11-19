@@ -1,5 +1,18 @@
 [
   {
+    "id": 43463,
+    "name": "Tarot",
+    "url": "https://dl.smwcentral.net/43463/Tarot.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43463",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1794989637,
+    "exits": 20
+  },
+  {
     "id": 43489,
     "name": "Who'll Stop the Rain?",
     "url": "https://dl.smwcentral.net/43489/Who%27ll%20Stop%20the%20Rain.zip",
