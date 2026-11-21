@@ -1,5 +1,57 @@
 [
   {
+    "id": 43537,
+    "name": "Midsummer",
+    "url": "https://dl.smwcentral.net/43537/Midsummer%201.0.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43537",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1795206017,
+    "exits": 19
+  },
+  {
+    "id": 43527,
+    "name": "Adventure of the Kaizonaut",
+    "url": "https://dl.smwcentral.net/43527/AOTK.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43527",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1795194727,
+    "exits": 10
+  },
+  {
+    "id": 43499,
+    "name": "The Red Island",
+    "url": "https://dl.smwcentral.net/43499/The%20Red%20Island.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43499",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1795186882,
+    "exits": 2
+  },
+  {
+    "id": 43512,
+    "name": "Iridium 2",
+    "url": "https://dl.smwcentral.net/43512/Iridium%202.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43512",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1795186191,
+    "exits": 20
+  },
+  {
     "id": 43463,
     "name": "Tarot",
     "url": "https://dl.smwcentral.net/43463/Tarot.zip",
