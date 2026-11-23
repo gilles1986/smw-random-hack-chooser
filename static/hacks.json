@@ -1,5 +1,18 @@
 [
   {
+    "id": 43545,
+    "name": "Expedition",
+    "url": "https://dl.smwcentral.net/43545/Expedition.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43545",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1795371489,
+    "exits": 11
+  },
+  {
     "id": 43537,
     "name": "Midsummer",
     "url": "https://dl.smwcentral.net/43537/Midsummer%201.0.zip",
