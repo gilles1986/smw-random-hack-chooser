@@ -1,5 +1,18 @@
 [
   {
+    "id": 43522,
+    "name": "Maker's Mark",
+    "url": "https://dl.smwcentral.net/43522/Makers%20Mark.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43522",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1795411567,
+    "exits": 18
+  },
+  {
     "id": 43545,
     "name": "Expedition",
     "url": "https://dl.smwcentral.net/43545/Expedition.zip",
