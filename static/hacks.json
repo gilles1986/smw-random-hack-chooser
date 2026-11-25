@@ -1,5 +1,18 @@
 [
   {
+    "id": 42155,
+    "name": "GrandShell",
+    "url": "https://dl.smwcentral.net/42155/GrandShell.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42155",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_7",
+    "difficultyLabel": "Grandmaster",
+    "time": 1795497663,
+    "exits": 6
+  },
+  {
     "id": 43522,
     "name": "Maker's Mark",
     "url": "https://dl.smwcentral.net/43522/Makers%20Mark.zip",
