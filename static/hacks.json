@@ -1,5 +1,31 @@
 [
   {
+    "id": 43503,
+    "name": "Tower Of Glory 2",
+    "url": "https://dl.smwcentral.net/43503/Tower%20of%20Glory%202%20V.1.5.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43503",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1795662410,
+    "exits": 0
+  },
+  {
+    "id": 43228,
+    "name": "I was always criticizing shell hacks becaus they look the same and copy of each other, then i ended up making one like them",
+    "url": "https://dl.smwcentral.net/43228/The%20Hack.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43228",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_6",
+    "difficultyLabel": "Master",
+    "time": 1795653708,
+    "exits": 15
+  },
+  {
     "id": 42155,
     "name": "GrandShell",
     "url": "https://dl.smwcentral.net/42155/GrandShell.zip",
