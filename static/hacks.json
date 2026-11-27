@@ -1,5 +1,44 @@
 [
   {
+    "id": 43340,
+    "name": "Super Mario World - Bowser's Return Redux",
+    "url": "https://dl.smwcentral.net/43340/Super%20Mario%20World%20-%20Bowser%27s%20Return%20Redux%20%28Version%201.4%29.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43340",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_2",
+    "difficultyLabel": "Casual",
+    "time": 1795738852,
+    "exits": 62
+  },
+  {
+    "id": 43172,
+    "name": "Super IDK World",
+    "url": "https://dl.smwcentral.net/43172/IDKWorld.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43172",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1795670843,
+    "exits": 81
+  },
+  {
+    "id": 43465,
+    "name": "Smoked Fish and Cabbage 4",
+    "url": "https://dl.smwcentral.net/43465/Smoked%20Fish%20and%20Cabbage%204%20v1.1.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=43465",
+    "types": [
+      "kaizo"
+    ],
+    "difficulty": "diff_4",
+    "difficultyLabel": "Advanced",
+    "time": 1795670708,
+    "exits": 28
+  },
+  {
     "id": 43503,
     "name": "Tower Of Glory 2",
     "url": "https://dl.smwcentral.net/43503/Tower%20of%20Glory%202%20V.1.5.zip",
