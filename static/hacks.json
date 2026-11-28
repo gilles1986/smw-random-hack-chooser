@@ -1,5 +1,18 @@
 [
   {
+    "id": 42875,
+    "name": "YNT MARIO",
+    "url": "https://dl.smwcentral.net/42875/ynt_mario_en_v1.0.8.zip",
+    "page_url": "https://www.smwcentral.net/?p=section&a=details&id=42875",
+    "types": [
+      "standard"
+    ],
+    "difficulty": "diff_5",
+    "difficultyLabel": "Expert",
+    "time": 1795833465,
+    "exits": 113
+  },
+  {
     "id": 43340,
     "name": "Super Mario World - Bowser's Return Redux",
     "url": "https://dl.smwcentral.net/43340/Super%20Mario%20World%20-%20Bowser%27s%20Return%20Redux%20%28Version%201.4%29.zip",
